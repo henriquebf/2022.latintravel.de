@@ -32,6 +32,7 @@ const Header: NextPage<Props> = ({ language }) => {
           <Link href={`/${language}/impressum`}>Impressum</Link>
           <Link href={`/${language}/inquiry`}>Inquiry</Link>
           <Link href={`/${language}/services`}>Services</Link>
+          <Link href={`/${language}/experience/xxx`}>Experience - XXX</Link>
         </nav>
       </Container>
     </header>

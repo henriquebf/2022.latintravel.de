@@ -6,9 +6,9 @@ import Header from '@/components/sections/Header';
 import Footer from '@/components/sections/Footer';
 import styles from '@/styles/Layout.module.css';
 
-type Props = { language: string };
+type Props = { language: string; experience: string };
 
-const Experience: NextPage<Props> = ({ language }) => {
+const Experience: NextPage<Props> = ({ language, experience }) => {
   return (
     <div className={styles.container}>
       <Head>
@@ -18,7 +18,7 @@ const Experience: NextPage<Props> = ({ language }) => {
       </Head>
       <Header language={language} />
       <Container>
-        <main className={styles.main}>Experience</main>
+        <main className={styles.main}>Experience {experience}</main>
       </Container>
       <Footer />
     </div>
@@ -28,8 +28,10 @@ const Experience: NextPage<Props> = ({ language }) => {
 export const getServerSideProps: GetServerSideProps = async ({
   params,
 }): Promise<{ props: any }> => {
-  const { language } = params ? params : { language: 'de' };
-  return { props: { language } };
+  const { language, experience } = params
+    ? params
+    : { language: 'de', experience: 'xxx' };
+  return { props: { language, experience } };
 };
 
 export default Experience;
