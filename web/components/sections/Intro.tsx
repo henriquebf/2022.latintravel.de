@@ -4,10 +4,13 @@ import styles from '@/styles/Layout.module.css';
 
 type Props = { title: string; description: string; backgroundImage: string };
 
-const Intro: NextPage<Props> = () => {
+const Intro: NextPage<Props> = ({ title, description }) => {
   return (
     <footer className={styles.section}>
-      <Container>Intro</Container>
+      <Container>
+        <div>{title}</div>
+        <div>{description}</div>
+      </Container>
     </footer>
   );
 };

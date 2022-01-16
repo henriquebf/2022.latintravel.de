@@ -1,0 +1,521 @@
+{
+  "home": {
+    "intro": {
+      "title": {
+        "de": "Ihr Reise-Spezialist für Brasilien und Südamerika",
+        "pt": "O seu Agente de Viagens para o Brasil e América do Sul"
+      },
+      "description": {
+        "de": "Latin Travel Express arbeitet seit 20 Jahren auf dem deutschen, österreichischen und schweizen Markt.",
+        "pt": "A Latin Travel Express atua há cerca de 20 anos na Alemanha, Áustria e Suíça."
+      },
+      "backgroundImage": ""
+    },
+    "experiences": {
+      "title": {
+        "de": "Entdecken Sie die Schönheit, Exotik und Lebensfreude Brasiliens",
+        "pt": "Descubra toda a beleza e exuberância do Brasil e a alegria de seu povo"
+      },
+      "description": {
+        "de": "Das größte südamerikanische Land bietet Ihnen beeindruckende und üppige Naturlandschaften, pulsierende Städte, ansteckende Lebensfreude und Herzlichkeit der Menschen sowie kilometerlange Strände am azurblauen Meer. Von uns bekommen Sie unten aufgeführt Tipps und Empfehlungen aus erster Hand – für eine faszinierende Reise voller inspirierender Kontraste, Erlebnisse und Erholung.",
+        "pt": "O país, do tamanho de um continente, é cheio de surpresas: os contrastes das regiões, a alegria contagiante da hospitalidade dos brasileiros e o poder da natureza. Para garantir que sua viagem ao Brasil seja uma experiência inesquecível, temos uma variedade de oportunidades de viagens. Conosco você poderá encontrar sempre exatamente aquilo que se adapte às suas necessidades: lazer, esportes ou negócios."
+      }
+    },
+    "events": {
+      "title": {
+        "de": "Wir machen Ihre Reise zu einem unvergesslichen Erlebnis.",
+        "pt": "Conosco sua viagem será uma experiência inesquecível!"
+      },
+      "description": {
+        "de": "Unsere Reiseagentur ist seit Jahren spezialisiert auf Reisen nach Brasilien und Lateinamerika. Wenn Sie eine Reiseagentur mit kompetenter Beratung und professionellen Service suchen, dann sind Sie bei uns bestens aufgehoben.",
+        "pt": "Se você procura um atendimento personalizado então você chegou ao lugar certo: nós organizamos sua viagem, seja ela familiar, pessoal ou de negócios. Oferecemos qualidade, preços acessíveis e segurança."
+      }
+    }
+  },
+  "about": {
+    "content": {
+      "paragraphs": {
+        "de": [
+          "Vor knapp 20 Jahren gründete Soraya Schneider ein Reisebüro, um Brasilianer zu beraten, die in ihre alte Heimat reisen oder auch dahin zurückkehren wollten.",
+          "Im Laufe der Zeit expandierte Latin Travel Express, wuchs ebenso wie die brasilianische Community in Deutschland. Sie spezialisierte sich nicht nur auf ihre Kunden, sondern auch darauf, die besten Reiseziele anzubieten, seien es Geschäfts-, Bildungs- oder rein touristische Reisen.",
+          "Heute hat sich der Kundenstamm stark vervielfältigt und Latin Travel Express verfügt über umfangreiche Erfahrungen in der Betreuung deutscher und internationaler Kunden, organisiert ideale Individual-, Familien- und sogar Gruppenreisen.",
+          "Latin Travel Express verbirgt sich für Kompetenz und Qualität. Für die Mitarbeiter von Latin Travel beginnt eine perfekte Reise mit einer guten Planung und endet erst, wenn ihre Kunden und Fluggäste mit vielen Eindrücken und Erlebnissen glücklich nach Hause zurückgekehrt sind."
+        ],
+        "pt": [
+          "Há quase duas décadas, Soraya Schneider criou uma Agência de Viagens com o intuito de atender brasileiros residentes na Alemanha que desejassem visitar o Brasil – ou retornar para lá.",
+          "Com o passar do tempo a Latin Travel Express se expandiu, crescendo junto à colônia de brasileiros na Alemanha e se especializando não só em atender esse público específico, mas também em oferecer os melhores destinos de viagem para as mais variadas demandas: negócios, turismo e educação.",
+          "Após esses 20 anos de dedicação e trabalho, nossa carteira de clientes se diversificou. Hoje também dispomos de ampla expertise no atendimento do público alemão e internacional, e estamos em condições de organizar sua viagem individual, familiar ou mesmo em grupo da melhor forma. ",
+          "A Latin Travel Express se consolidou como sinônimo de excelência e qualidade junto aos passageiros que adquiriram seus bilhetes ou serviços através de nossa Agência. Para nós, afinal, a viagem perfeita começa com um bom planejamento e só termina quando nosso cliente regressa à sua casa, com muitas histórias para contar."
+        ]
+      }
+    }
+  },
+  "contact": {
+    "content": {
+      "paragraphs": {
+        "de": [
+          "Weidende 8",
+          "22395 Hamburg",
+          "",
+          "+49 40 6028080",
+          "+49 40 6028646",
+          "Fax: +49 40 6028081",
+          "",
+          "Montags - Freitags: ",
+          "10:00-14:00/15:00-18:00",
+          "",
+          "E-Mail: info@latin-travel.de",
+          "Skype: latin-travel-express"
+        ],
+        "pt": [
+          "Weidende 8",
+          "22395 Hamburg",
+          "",
+          "+49 40 6028080",
+          "+49 40 6028646",
+          "Fax: +49 40 6028081",
+          "",
+          "Segunda à Sexta-feira: ",
+          "10:00-14:00/15:00-18:00",
+          "",
+          "E-Mail: info@latin-travel.de",
+          "Skype: latin-travel-express"
+        ]
+      }
+    }
+  },
+  "dataProtection": {
+    "content": {
+      "paragraphs": {
+        "de": [
+          "Datenschutz",
+          "Der Schutz der Privatsphäre und Ihrer persönlichen Daten haben bei Travel Express/Soraya Schneider und den angeschlossenen Leistungsträgern einen hohen Stellenwert. Die Erhebungen und Verarbeitungen aller personenbezogenen Daten, die bei Ihrem Besuch auf unserer Webseite vorgenommen werden, erfolgen nach den deutschen gesetzlichen Datenschutzbestimmungen.",
+          "Unsere Webseite kann Links zu Webseiten anderer Anbieter enthalten, auf die sich diese Datenschutzerklärung nicht erstreckt. Wir haben keinen Einfluss darauf, dass deren Betreiber die Datenschutzbestimmungen einhalten.",
+          "Erhebung und Verarbeitung Ihrer Daten ",
+          "Bei dem Besuch unserer Webseite speichert der Webserver standardmäßig die IP Adresse Ihres Internet Service Providers, die Webseite, von der aus Sie www.latin-travel.de besuchen, die Webseiten, die Sie bei www.latin-travel.de besuchen sowie das Datum und die Dauer des Besuches. Diese Daten bleiben anonym und dienen lediglich statistischen Zwecken.",
+          "Cookies kommen auf unserer Webseite nicht zum Einsatz.",
+          "Ihre persönlichen Daten, wie Name, Adresse, Postanschrift, Telefon-Nr. etc. werden von Latin Travel Express/Soraya Schneider nur dann gespeichert, wenn Sie uns diese von sich aus im Rahmen der Reservierung einer Reise oder einer Angebotsabfrage für eine Reise angeben.",
+          "Datenerhebung und Verarbeitung",
+          "Es werden nur solche persönliche Daten erhoben, die zur Abwicklung Ihrer Reise unbedingt notwendig sind. Ihre persönlichen Daten werden deshalb auch ausschließlich zum Zwecke der Durchführung des Reiseauftrages verwendet.",
+          "Weitergabe Ihrer Daten an Dritte ",
+          "Latin Travel Express/Soraya Schneider leitet Ihre persönlichen Daten ausschließlich im Rahmen der Zweckbestimmung zur Abwicklung der Reise an Dritte weiter. Unsere Mitarbeiter und Partner sind von uns zur Verschwiegenheit auf das Datengeheimnis verpflichtet.",
+          "Datenübermittlungen an staatliche Stellen oder Behörden erfolgen nur im Rahmen gültiger Rechtsvorschriften.",
+          "Die Zollbehörden der USA haben alle Fluggesellschaften gesetzlich verpflichtet, die Flug- und Reservierungsdaten jedes Passagiers zur Verfügung zu stellen. Diese Daten werden von den USA Zollbehörden ausschließlich zu Sicherheitszwecken verwendet.",
+          "Auskunftsrecht",
+          "Sie haben das Recht, auf Antrag und unentgeltlich, Auskunft über die von Ihnen gespeicherten Daten zu erhalten. Sollten wider Erwarten falsche Informationen gespeichert sein, werde wir diese auf Ihre Anforderung hin berichtigen.",
+          "Datensicherheit",
+          "Latin Travel Express/Soraya Schneider hat die notwendigen technischen und organisatorischen Maßnahmen ergriffen, um die von Ihnen zur Verfügung gestellten personenbezogenen Daten vor Verlust, Zerstörung, Manipulation und unberechtigtem Zugriff zu schützen.",
+          "Datenschutzerklärung",
+          "Latin Travel Express/Soraya Schneider verpflichtet sich, die oben genannten Punkte zum Datenschutz wie beschrieben einzuhalten."
+        ],
+        "pt": [
+          "Proteção de Dados",
+          "A proteção da privacidade individual e de seus dados pessoais desfrutam de alta prioridade por parte da Latin Travel Express / Soraya Schneider e de seus prestadores de serviço associados. Os levantamentos e processamento de dados pessoais que são feitos quando você visita minhas páginas de internet estão de acordo com a legislação alemã concernente à proteção de dados.",
+          "Minhas páginas de internet podem manter ligações (links) de outras páginas, às quais esta declaração de respeito à privacidade de dados não se abrange. Eu não exerço nenhuma influência sobre a conformidade destas páginas com os regulamentos de proteção de dados por parte de seus responsáveis.",
+          "Levantamento e processamento de suas informações pessoais.",
+          "Quando você visita minhas páginas de internet o meu servidor armazena, de forma padronizada, o número de IP de seu provedor de serviços de internet, a página de internet, através da qual você foi conectado com a www.latin-travel.de, bem como as páginas de internet que você visita partindo da www.latin-travel.de, além da data e duração da visita. Estes dados permanecem anônimos e só podem ser utilizados para fins de levantamento estatístico.",
+          "Não são utilizados cookies em minhas páginas de internet.",
+          "As suas informações pessoais, incluindo seu nome, endereço, domicílio postal, número de telefone etc. somente serão salvos pela Latin Travel Express / Soraya Schneider se você nos fornecer estes dados no âmbito de uma reserva de viagem ou em razão de uma consulta para uma viagem.",
+          "Finalidade do Levantamento de dados e processamento.",
+          "Os referidos dados pessoais somente serão coletados caso seja absolutamente necessário para a transação de sua viagem. Os seus dados pessoais serão, portanto, utilizados exclusivamente para fins de execução da ordem de viagem.",
+          "Divulgação de suas informações pessoais a terceiros",
+          "A Latin Travel Express / Soraya Schneider transfere seus dados pessoais a terceiros exclusivamente com a finalidade de realizar a transação de viagem. Minha equipe de trabalho e parceiros estão sujeitos à obrigação de respeitar a confidencialidade de dados. ",
+          "As transferências de dados para agências do governo ou autoridades ocorrem apenas no âmbito da legislação em vigor.",
+          "As autoridades aduaneiras dos E.U.A. obrigaram por meio de Lei todas as companhias aéreas a colocar à disposição os dados de voo e de reserva de cada passageiro. Estes dados são utilizados pelas autoridades aduaneiras dos E.U.A. exclusivamente para fins de segurança.",
+          "Direito a informações",
+          "Você tem o direito, por meio de requerimento e sem encargos, de receber informações sobre os seus dados pessoais que tenham sido armazenados. No caso de terem sido salvas informações incorretas, ao contrário do que se espera, eu as corrigirei mediante seu pedido.",
+          "Privacidade de dados",
+          "A Latin Travel Express / Soraya Schneider tomou as medidas técnicas e organizatórias necessárias para que os dados pessoais que você nos forneceu estejam protegidos de perda, destruição, manipulação e acesso não autorizado.",
+          "Declaração sobre a proteção de dados",
+          "A Latin Travel Express / Soraya Schneider assume a obrigação de respeitar os dispositivos concernentes à proteção de dados acima mencionados."
+        ]
+      }
+    }
+  },
+  "disclaimer": {
+    "content": {
+      "paragraphs": {
+        "de": [
+          "Haftungsausschluss",
+          "Alle auf diesen Internetseiten veröffentlichten Flugdaten und -preise, sowie Leistungs- und Servicebeschreibungen unterliegen evtl. Änderungen.",
+          "Alle Angaben sind ohne Gewähr.",
+          "Latin Travel Express/Soraya Schneider hat die auf www.latin-travel.de enthaltenen Informationen sorgfältig erstellt und ist um laufende Überprüfung und Aktualisierung bemüht. Dennoch kann ich für die Richtigkeit, Aktualität, Vollständigkeit und laufende Verfügbarkeit der Inhalte keinerlei Haftung übernehmen.",
+          "Latin Travel Express/Soraya Schneider steht auch nicht dafür ein, dass Inhalte dieses Internetangebots für den Nutzer und seine Zwecke geeignet sind.",
+          "Latin Travel Express/Soraya Schneider bietet alle auf der Website zur Verfügung gestellten Allgemeinen Informationen einzig als Orientierung für den Nutzer an. Der Nutzer muss damit rechnen, dass sich die Allgemeinen Informationen jederzeit ändern können. Er sollte sich deshalb mit den entsprechenden Institutionen, Botschaften oder Tourismusbüros in Verbindung setzen, um sicherzustellen, dass die Aktualität der angegebenen Informationen gewährleistet ist.",
+          "Besonders in Bezug auf Erfordernisse betreffend Reisepässe, Visa und vorgeschriebene Impfungen kann Latin Travel Express/Soraya Schneider die Aktualität von länderspezifischen Informationen nicht garantieren. Für die Einhaltung solcher Vorgaben ist der Nutzer verantwortlich.",
+          "Verbindliche Auskünfte, Beratungen, Empfehlungen oder Erklärungen erteilt Latin Travel Express/Soraya Schneider ausschließlich im Rahmen individueller Kommunikation.",
+          "Das Internetangebot von Latin Travel Express/Soraya Schneider enthält Links, die zu Websites anderer Anbieter führen, auf deren Gestaltung und Inhalte wir keinen Einfluss haben. Inhalte anderer Anbieter machen wir uns in keiner Weise zu Eigen, auch wenn wir in der Form von Hyperlinks auf solche Inhalte hinweisen. Wir übernehmen daher keine Haftung/Verantwortung für Richtigkeit, Aktualität, Vollständigkeit und Qualität der auf anderen Websites bereitgestellten Informationen.",
+          "Der Inhalt, die Gestaltung und der Aufbau des Internetangebots von Latin Travel Express/Soraya Schneider sind urheberrechtlich geschützt. Die von Latin Travel Express/Soraya Schneider bereitgestellten Informationen, Texte, und Bildmaterialien sind nur für den individuellen Zugriff des Nutzers unseres Internetangebots bestimmt und dürfen nur mit meiner Zustimmung vervielfältigt und für geschäftliche Zwecke verwendet werden.",
+          "Das Setzen von Hyperlinks, insbesondere von Deep-Links, Inline-Links oder Links in Frame Technologie auf www.latin-travel.de ist nur mit meiner vorherigen schriftlichen Zustimmung zulässig.",
+          "Latin Travel Express/Soraya Schneider behält sich das Recht vor, das Internetangebot jederzeit zu ändern, zu ergänzen, zu kürzen oder auch ganz einzustellen.",
+          "Das Internetangebot von Latin Travel Express/Soraya Schneider ist auf der Grundlage der Rechtsordnung der Bundesrepublik Deutschland erstellt. Latin Travel Express/Soraya Schneider übernimmt keine Haftung dafür, dass dieses Internetangebot für Nutzer aus anderen Staaten geeignet, verwendbar oder dort rechtlich zulässig ist."
+        ],
+        "pt": [
+          "Exclusão de Responsabilidade",
+          "Todos os dados de voo e todos os preços, bem como as descrições de serviços prestados e publicados nestas páginas de internet estão sujeitas a modificações.",
+          "Todas as informações estão sujeitas a alterações.",
+          "A Latin Travel Express / Soraya Schneider concebeu cuidadosamente as informações contidas em www.latin-travel.de e mantém um esforço contínuo pela revisão e atualização destas informações. No entanto, não assumimos qualquer responsabilidade pela exatidão, atualidade, integridade e contínua disponibilidade dos conteúdos. ",
+          "A Latin Travel Express / Soraya Schneider também não assume qualquer responsabilidade de que os conteúdos desta oferta por meio de internet sejam apropriados para o usuário e seus objetivos.",
+          "A Latin Travel Express / Soraya Schneider presta informações, aconselhamentos, recomendações ou declarações vinculativas exclusivamente no âmbito de uma comunicação individual.",
+          "O conteúdo, o design e a estrutura da oferta por meio de internet da Latin Travel Express / Soraya Schneider estão protegidos por direitos autorais.",
+          "As informações, textos e imagens disponibilizados pela Latin Travel Express/ Soraya Schneider estão destinados apenas ao acesso individual do usuário de nossas ofertas, podendo somente ser reproduzidos mediante minha autorização e ser utilizados para fins comerciais.",
+          "A aplicação de hiperligações (hyperlinks), especialmente de deep-links, inline-links ou ligações (links) em tecnologia frame na www.latin-travel.de-in estarão autorizados apenas mediante minha aprovação escrita, prestada com antecedência.",
+          "A Latin Travel Express / Schneider Soraya reserva o direito de, a qualquer momento, modificar, completar, reduzir ou até mesmo cancelar totalmente a oferta por meio de internet.",
+          "A oferta por meio de internet da Latin Travel Express / Soraya Schneider foi elaborada com base na ordem jurídica da República Federal da Alemanha. Latin Travel Express / Soraya Schneider não assume qualquer responsabilidade de que esta oferta feita por internet possa ser apropriada ou utilizável para usuários de outros países, ou legalmente autorizada em outros países."
+        ]
+      }
+    }
+  },
+  "impressum": {
+    "content": {
+      "paragraphs": {
+        "de": [
+          "Impressum",
+          "Anbieterkennzeichnung nach §5 TMG",
+          "Anbieter dieser Internetpräsenz ist im Rechtssinne: Latin Travel Express, Saskya Larissa Schneider.",
+          "Latin Travel Express<br />Inh. Saskya Larissa Schneider<br />Weidende 8<br />D-22395 Hamburg<br />Telefon: +49 (0) 40 602 80 80<br />E-Mail: info@latin-travel.de<br />Internet: www.latin-travel.de",
+          "Inhaltlich Verantwortlicher gemäß §6 TMG: Saskya Larissa Schneider<br />USt-ID-Nr. DE185549117<br />Registergericht: Amtsgericht Hamburg<br />Registernummer: HRA 91029",
+          "Copyright, Urheberrecht",
+          "Copyright Saskya Larissa Schneider. Alle Rechte vorbehalten. Alle Inhalte (Texte, Bilder, Grafiken, Dateien, grafische Gestaltungen, Anordnungen, u.a.) auf dieser Website (www.latin-travel.de), sind durch das Urheberrecht und andere Schutzgesetze geschützt. Dieser Rechtsschutz gilt auch gegenüber Datenbanken und ähnlichen Einrichtungen. Die Inhalte dieser Website sind nur für den genannten bestimmungsgemäßen Abruf im Internet nutzbar. Diese Website kann urheberrechtliche und durch andere Gesetze geschützte Elemente enthalten, die dem Urheberrecht Dritter unterliegen und die für diese Dritten entsprechend urheberrechtlich geschützt sind. ",
+          "Marken, Produktausstattungen, Firmenschriftzüge",
+          "Marken, Produktausstattungen, Firmenschriftzüge, Logos und Abbildungen, die auf dieser Website enthalten sind, sind markenrechtlich und nach anderen Schutzgesetzen zugunsten Latin Travel/Saskya Larissa Schneider, der verbundenen Unternehmen und, soweit angegeben, zugunsten anderer Unternehmen geschützt und dürfen daher, gleichgültig auf welche Art, von Nutzern dieser Website nicht für eigene Zwecke verwendet werden.",
+          "Haftungsausschluss",
+          "Latin Travel Express/Saskya Larissa Schneider bietet alle auf der Website zur Verfügung gestellten Allgemeinen Informationen einzig als Orientierung für den Nutzer an. Der Nutzer muss damit rechnen, dass sich die Allgemeinen Informationen jederzeit ändern können. Er sollte sich deshalb mit den entsprechenden Institutionen, Botschaften oder Tourismusbüros in Verbindung setzen, um sicherzustellen, dass die Aktualität der angegebenen Informationen gewährleistet ist.",
+          "Besonders in Bezug auf Erfordernisse betreffend Reisepässe, Visa und vorgeschriebene Impfungen kann Latin Travel Express/Saskya Larissa Schneider die Aktualität von länderspezifischen Informationen nicht garantieren. Für die Einhaltung solcher Vorgaben ist der Nutzer verantwortlich.",
+          "Latin Travel Express/Saskya Larissa Schneider prüft und aktualisiert die Informationen auf seinen Webseiten ständig. Trotz aller Sorgfalt können sich die Daten zwischenzeitlich verändert haben. Eine Haftung oder Garantie für die Aktualität, Richtigkeit und Vollständigkeit der zur Verfügung gestellten Informationen kann daher nicht übernommen werden. Gleiches gilt auch für alle anderen Webseiten, auf die mittels Hyperlink verwiesen wird. Latin Travel Express/Saskya Larissa Schneider ist für den Inhalt der Webseiten nicht verantwortlich.",
+          "Des Weiteren behält sich Latin Travel Express/Saskya Larissa Schneider das Recht vor, Änderungen oder Ergänzungen der bereitgestellten Informationen vorzunehmen.",
+          "Verbraucherstreitbeilegung / OS-Plattform:",
+          "Die Europäische Kommission stellt unter <a href='https://ec.europa.eu/consumers/odr/'>https://ec.europa.eu/consumers/odr/</a> eine Plattform zur Online-Beilegung verbraucherrechtlicher Streitigkeiten (OS-Plattform) bereit. Latin Travel Express nimmt derzeit nicht an einem Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teil."
+        ],
+        "pt": [
+          "Expediente",
+          "Indicação do oferecedor conforme o art. 5 da Lei alemã sobre a Telemidia (TMG).",
+          "O oferecedor desta presença na internet, para os fins de direito, é o seguinte: Latin Travel Express, Saskya Larissa Schneider.",
+          "Latin Travel Express<br />Proprietária. Saskya Larissa Schneider<br />Weidende 8 <br />D-22395 Hamburg<br />Telefone: +49 40 602 80 80<br />E-Mail: info@latin-travel.de<br />Internet: www.latin-travel.de",
+          "Responsável pelo conteúdo segundo o art. 6 TMG: Saskya Larissa Schneider<br />N° de IVA: DE0930069213<br />Registergericht: Amtsgericht Hamburg<br />Registernummer: HRA 91029",
+          "Copyright, Direito de autor",
+          "Copyright Saskya Larissa Schneider. Reservados todos os direitos. Todos os conteúdos (textos, imagens, gráficas, fichários, composições gráficas, arranjos, etc.) contidos neste site (www.latin-travel.de), estão protegidos pelo direito autoral e por outras leis protetoras. Esta proteção jurídica também é válida com respeito a bancos de dados e instituições semelhantes. Os conteúdos deste site podem ser usados apenas para a chamada na internet que for realizada conforme as disposições acima referidas e para os fins supra indicados. Este site pode conter elementos protegidos pelo direito de autor e por outras leis, que estão sujeitos ao direito autoral de terceiros e que estão protegidos pelo direito autoral a favor desses terceiros.",
+          "Marcas, equipamentos de produtos, firmas",
+          "As marcas, equipamentos de produtos, firmas, logotipos de empresas e ilustrações, que constam deste site, estão protegidos pelo direito das marcas e por outras leis protetoras a favor da Latin Travel/Saskya Larissa Schneider, das empresas ligadas e, tanto quanto estão indicadas, a favor de outras empresas e por isso não podem ser utilizados, em forma alguma, pelos usuários deste site para os fins próprios deles.",
+          "Exclusão da responsabilidade",
+          "A Latin Travel Express/Saskya Larissa Schneider oferece todas as Informações Gerais contidas neste site exclusivamente para os fins de orientação dos usuários. Cada usuário deve contar com a possibilidade de que as Informações Gerais possam alterar-se a qualquer tempo. Por isso, deveria contatar as respectivas instituições, embaixadas ou escritórios de turismo, para assegurar que esteja garantida a atualidade das informações indicadas.",
+          "Particularmente com respeito aos requisitos para passaportes, vistos e vacinações obrigatórias, a Latin Travel Express/Saskya Larissa Schneider não pode garantir a atualidade de informações específicas relativas aos vários países. A observação de tais requisitos é da responsabilidade do usuário.",
+          "A Latin Travel Express/Saskya Larissa Schneider controla e atualiza constantemente as informações indicadas nos seus sites na internet. Apesar dos mais meticulosos cuidados, os dados entrementes podem ter mudado. Por isso, não pode ser assumida qualquer responsabilidade ou garantia de que as informações postas à disposição sejam atuais, corretas e completas. O mesmo é válido também para todos os outros sites, para os quais é chamada a atenção por um hyperlink. A Latin Travel Express/Saskya Larissa Schneider não é responsável pelo conteúdo dos sites.",
+          "Além disso, a Latin Travel Express/Saskya Larissa Schneider reserva-se o direito de alterar ou completar as informações que foram postas à disposição.",
+          "Verbraucherstreitbeilegung / OS-Plattform:",
+          "Die Europäische Kommission stellt unter <a href='https://ec.europa.eu/consumers/odr/'>https://ec.europa.eu/consumers/odr/</a> eine Plattform zur Online-Beilegung verbraucherrechtlicher Streitigkeiten (OS-Plattform) bereit. Latin Travel Express nimmt derzeit nicht an einem Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teil."
+        ]
+      }
+    }
+  },
+  "services": {
+    "intro": {
+      "title": {
+        "de": "Unser Service",
+        "pt": "Nossos Serviços"
+      },
+      "description": {
+        "de": "Spezialist für Reisen nach Brasilien & Lateinamerika. Erfahren. Kompetent. Preiswert.",
+        "pt": "O seu especialista em viagens ao Brasil e América do Sul. Experiência. Competência. Melhor preço."
+      },
+      "backgroundImage": ""
+    },
+    "content": {
+      "paragraphs": {
+        "de": [
+          "\"Brasiliens Beitrag zur Zivilisation wird die Herzlichkeit sein.\"<br />Chico Buarque de Holanda",
+          "Wir möchten Ihnen nicht nur die Schönheit und Vielfalt vorstellen, sondern Ihnen auch mit Rat und Tat zur Seite stehen. Haben Sie Fragen oder liegt Ihnen ein Thema besonders am Herzen, können Sie uns jederzeit eine E-Mail schreiben oder das Kontaktformular benutzen.",
+          "Wenn Sie möchten, werden wir auch Ihren ganz persönlichen, individuellen Reisewunsch realisieren. Für Unternehmen, Gruppen und Vereinen bieten wir einen Extra-Service und spezielle Konditionen an."
+        ],
+        "pt": [
+          "\"A contribuição do Brasil para a civilização será a cordialidade.\"<br />Chico Buarque de Holanda",
+          "Caso você tenha alguma dúvida ou deseje maiores esclarecimentos sempre poderá nos enviar um e-mail ou usar nosso Formulário de Contato.",
+          "Se desejar, organizaremos sua viagem individual. E para empresas, grupos e associações oferecemos a melhor orientação e condições do mercado."
+        ]
+      }
+    }
+  },
+  "events": {
+    "business": {
+      "intro": {
+        "title": { "de": "Geschäftsreisen", "pt": "Viagens de Negócios" },
+        "description": {
+          "de": "Machen Sie aus Ihrer Reise ein erfolgreiches Geschäft.",
+          "pt": "Faça da sua viagem um negócio bem sucedido."
+        },
+        "backgroundImage": ""
+      },
+      "content": {
+        "images": ["", "", ""],
+        "paragraphs": {
+          "de": [
+            "Heute ist Brasilien die sechstgrößte Weltwirtschaft. In diesem wirtschaftlichen Wachstum boomen die Beziehung zwischen Brasilien und Europa. Durch diesen Strom hat sich der Verkehr zwischen den beiden Kontinenten intensiviert. Kongresse, Konferenzen, Seminare, Börsen und Messen finden in allen Bereichen der Wirtschaft statt.",
+            "Latin Travel Express organisiert Ihre Geschäftsreise - mit super Businesspreisen.",
+            "Für brasilianische Athleten, sowie deren Geschäftspartner bieten wir Sonderkonditionen. Ob Ihr Ziel nun Deutschland oder Brasilien ist, wie versichern Ihnen, dass Sie sicher und komfortabel ankommen. Verlassen Sie sich auf unser Know-how mit fast 20 Jahren Erfahrung in der Reisebranche."
+          ],
+          "pt": [
+            "O Brasil é hoje a sexta economia mundial. No boom desse crescimento econômico a relação entre Brasil e União Européia se equilibra. Nessa corrente o trânsito de pessoas entre os dois continentes se intensificou. Congressos, conferências, seminários, intercâmbios e feiras acontecem em todos os setores da economia dos dois lados.",
+            "A Latin Travel Express pode organizar a sua viagem de negócios com segurança – temos excelentes tarifas Business. Aos atletas brasileiros que atuam no futebol da Alemanha assim como para os seus empresários, oferecemos tarifas especiais. Seja o seu destino Alemanha ou Brasil garantimos que você chegue com segurança e conforto. Conte com a nossa competência e com quase 20 anos de experiência."
+          ]
+        }
+      }
+    },
+    "carnival": {
+      "intro": {
+        "title": {
+          "de": "Karneval & Volksfeste",
+          "pt": "Carnaval e Festas Populares"
+        },
+        "description": {
+          "de": "Mit einem umfangreichen Veranstaltungskalender feiert Brasilien das ganze Jahr über die verschiedensten Volksfeste.",
+          "pt": "Com um vasto calendário as festas populares do Brasil se manifestam em todo o país."
+        },
+        "backgroundImage": ""
+      },
+      "content": {
+        "images": ["", "", ""],
+        "paragraphs": {
+          "de": [
+            "Karneval: Der brasilianische Karneval ist das größte Volksfest des Landes. Es erstreckt sich über vier Tage bis Aschermittwoch. Für die Brasilianer ist er eines ihrer wichtigsten Feste. Millionen von Menschen aus aller Welt kommen hier zusammen, um mit viel Musik und Tanz in ausgelassener Fröhlichkeit gemeinsam zu feiern.",
+            "Junifeste: Außerdem haben die Junifeste (festas juninas) in Brasilien seit jeher Tradition. Speziell das Fest des heiligen Johannes (São João) am 24. Juni wurzelt ursprünglich auf dem heidnischen Brauch der Sommersonnenwende in Europa.",
+            "Weitere jährliche Feste:",
+            "- Der Boi Bumba oder „Bumba Meu Boi”: eine Art Volksoper, die aus der Verschmelzung von europäischen, afrikanischen und indianischen Kulturelementen entstanden ist. Der Gesang wird von Rasseln, Tamburins und Trommeln begleitet.",
+            "- Die Rodeofeste mit Stieren, Pferden und musikalischen Darbietungen – hauptsächlich im Bundesstaat São Paulo. In Barretos findet jährlich im August das größte und berühmteste dieser „Festas do Peão“ statt.",
+            "- Das Oktoberfest in Blumenau, das 1850 von deutschen Einwanderern gegründet wurde. Zweitgrößtes deutsches Fest der Welt, mit Festumzügen und Darbietungen der Folkloregruppen."
+          ],
+          "pt": [
+            "Carnaval: O Carnaval do Brasil é a maior festa do país. A Festa acontece durante quatro dias (que precedem a quarta-feira de cinzas).  Para os brasileiros esta é uma das mais importantes comemorações, pois é o momento em que milhões de pessoas se unem para celebrar a vida e manifestar sua alegria, através da música e dança.",
+            "Festas Juninas: Além disso, existem as tradicionais festas juninas. Especialmente, a festa de São João em 24 de Junho, originalmente enraizada no costume pagão do solstício de verão da Europa.",
+            "Outras comemorações anuais:",
+            "- O Boi Bumba ou “Bumba Meu Boi” é uma espécie de ópera popoular, que se originou apartir da fusão de elementos culturais europeos, africanos e ameríndios. Onde o canto é acompanhado de chocalhos, pandeiros e tambores.",
+            "- Rodeios com touros, cavalos e apresentações musicais – principalmente no estado de São Paulo. A  mais famosa “Festas do Peão” é realizada em agosto na cidade de Barretos no estado de São Paulo.",
+            "- A Oktoberfest de Blumenau foi fundada em 1850 por imigrantes alemães. É o segundo maior festival alemão no mundo, com desfiles e apresentaçõesde grupos folclóricos."
+          ]
+        }
+      }
+    }
+  },
+  "experiences": {
+    "abrolhos": {
+      "intro": {
+        "title": { "de": "Abrolhos", "pt": "Abrolhos" },
+        "description": {
+          "de": "Öffne die Augen und staune.",
+          "pt": "Abra os olhos e desfrute."
+        },
+        "backgroundImage": ""
+      },
+      "content": {
+        "images": ["", ""],
+        "paragraphs": {
+          "de": [
+            "Bestehend aus fünf Inseln liegt das Abrolhos Archipel im Atlantischen Ozean an der Südküste Bahias. Abrolhos ist sehr beliebt und bekannt bei Tauchern, da sich hier die Heimat sowie die größte Konzentration von Fischen pro m² weltweit befindet.",
+            "Ein weiterer Höhepunkt ist die Saison der Buckelwaale die jedes Jahr im Juli startet. Hier lässt man sich durch die Sprünge und Pirouetten dieser Tiere faszinieren."
+          ],
+          "pt": [
+            "Constituído por cinco ilhas o arquipélago de Abrolhos localiza-se no Oceano Atlântico, no município de Caravelas litoral sul da Bahia. Muito procurado por mergulhadores pois as formações de corais abrigam uma das maiores concentrações de peixes por metro quadrado do planeta.",
+            "Outro ponto alto acontece apartir de julho – quando inicia-se a temporada das baleias jubarte – que se exibem em saltos e piruetas para os visitantes."
+          ]
+        }
+      }
+    },
+    "fernando-de-noronha": {
+      "intro": {
+        "title": { "de": "Fernando de Noronha", "pt": "Fernando de Noronha" },
+        "description": {
+          "de": "Stetige Wassertemperatur von 26° C im ganzen Jahr.",
+          "pt": "Uma temperatura da água de 26° todo o ano."
+        },
+        "backgroundImage": ""
+      },
+      "content": {
+        "images": ["", ""],
+        "paragraphs": {
+          "de": [
+            "Nur 540 km von Recife und 360 km von Natal entfernt ragt das Archipel Fernando de Noronha aus dem Meer. Hier hat sich ein immenses ökologisches Erbe erhalten. Bekannt geworden ist Fernando de Noronha wegen seiner Delfinschwärme, die es zu einem wahren Paradies für Taucher und Schnorchler machen. Der Archipel umfasst 21 Inseln vulkanischen Ursprungs mit Dutzenden schöner Strände.",
+            "Die klaren, flachen Gewässer sind ideal zum Tauchen und Schnorcheln. In den natürlichen Meerwasserpools sind Algen, Schwämme, Korallen, Langusten, Schildkröten und eine Reihe von bunten Fischen zu beobachten. Erwarten Sie eine unvergessliche Reise durch ein Naturschutzgebiet!"
+          ],
+          "pt": [
+            "Isolado do mar, a distância de 540 km do Recife e a 360 km de Natal, o arquipélago Fernando de Noronha tem um imenso patrimônio ecológico. Composto de 21 ilhas e ilhotas de origens vulcânicas - ficou conhecido principalmente por causa dos seus golfinhos e pela beleza das suas águas cristalinas.",
+            "Um verdadeiro paraíso para a prática do mergulho e snorkelling. Nas piscinas naturais encontram-se algas, esponjas, corais, lagostas, tartarugas marinhas e um número sem fim de peixes coloridos. Aguarde uma viagem inesquecível através de uma reserva ecológica! "
+          ]
+        }
+      }
+    },
+    "foz-do-iguacu": {
+      "intro": {
+        "title": { "de": "Foz do Iguaçu", "pt": "Foz do Iguaçu" },
+        "description": {
+          "de": "Pure Faszination.",
+          "pt": "O significado da exuberância."
+        },
+        "backgroundImage": ""
+      },
+      "content": {
+        "images": ["", ""],
+        "paragraphs": {
+          "de": [
+            "Von ausländischen Touristen als zweitbeliebteste Destination Brasiliens gewählt. Die Stadt ist durch die Iguaçú Wasserfälle, die Teil des Weltnaturerbes der UNESCO sind, bekannt",
+            "Hier befindet sich auch der Staudamm der weltweit, jährlich gesehen, die meiste Energie produziert. Nicht zu vergessen ist der berühmte Vogelpark mit etwa 900 Vögel von 150 Arten."
+          ],
+          "pt": [
+            "O segundo destino de turistas estrangeiros no país dispensa apresentação. A cidade é conhecida internacionalmente pelas Cataratas do Iguaçu, parte do Patrimônio Mundial Natural da Humanidade tombado pela UNESCO.",
+            "Aqui se encontra também a maior hidroelétrica do mundo em produção anual de energia. Além do Parque das Aves com aproximadamente 900 aves de 150 espécies."
+          ]
+        }
+      }
+    },
+    "ilha-grande": {
+      "intro": {
+        "title": { "de": "Ilha grande", "pt": "Ilha grande" },
+        "description": { "de": "Die Einfachheit der Natur", "pt": "" },
+        "backgroundImage": "A simplicidade do natural"
+      },
+      "content": {
+        "images": [""],
+        "paragraphs": {
+          "de": [
+            "Wenn Sie Abenteuer in der Natur schätzen, erleben Sie hier eine Vielfalt von Formen, Farben und Kontrasten. Alles ist einfach und natürlich - entdecken Sie die Legenden und Sagen dieses magischen Ortes."
+          ],
+          "pt": [
+            "Se você aprecia aventuras na natureza aqui você experimentará uma rica diversidade de cores, formas, contrastes e sabores. Tudo é simples e natural, ponha os pés no chão e descubra as lendas e curiosidades desse mágico lugar."
+          ]
+        }
+      }
+    },
+    "jericoacoara": {
+      "intro": {
+        "title": { "de": "Jericoacoara", "pt": "Jericoacoara" },
+        "description": {
+          "de": "Ein Traum für Wassersportarten.",
+          "pt": "O sonho para esportes aquáticos."
+        },
+        "backgroundImage": ""
+      },
+      "content": {
+        "images": ["", ""],
+        "paragraphs": {
+          "de": [
+            "Das Dünengebiet von 200 km² im Nordosten des Landes ist bekannt durch seine Süß-und Salzwasserseen, seinen Felserosionen und zählt zu den schönsten Strände weltweit. Auch gehört „Jeri“, wie von vielen liebevoll genannt, unter den Wind- und Kitesurfern zu den besten Surfrevieren."
+          ],
+          "pt": [
+            "200km² de praia localizada no nordeste do Brasil. Eleita uma das mais belas praias do mundo pelo Washington Post devido as suas diversas lagoas de água doce e salgada, praias intocadas, rochas esculpidas pelo vento. Carinhosamente conhecida como “Jeri” entre os surfistas, é uma das melhores zonas para a prática desse esporte."
+          ]
+        }
+      }
+    },
+    "lencois": {
+      "intro": {
+        "title": { "de": "Lençóis Maranhenses", "pt": "Lençóis Maranhenses" },
+        "description": {
+          "de": "Ein Wunderwerk der Natur.",
+          "pt": "Uma maravilha da natureza."
+        },
+        "backgroundImage": ""
+      },
+      "content": {
+        "images": ["", ""],
+        "paragraphs": {
+          "de": [
+            "Stellen Sie sich eine Wüste mit feinem weißen Sand, tausenden kristallklarer Lagunen, einsamen Stränden und sauberen Flüssen vor! Das ist der Nationalpark „Lençois Maranhenses“. Hier regnet es 300-mal mehr als in der Wüste Sahara, was die Region zu einer einzigen großen Oase macht.",
+            "Für Ausflüge empfehlen sich besonders ein Flug über die Dünen, Jeep-Fahrten durch den Naturpark und Wanderungen auf den gekennzeichneten Wegen durch die Dünen und um die Lagunen."
+          ],
+          "pt": [
+            "Imagine um deserto com areia clara e fina, com centenas de lagoas de águas cristalinas azuis, rios limpos e praias desertas. Isto é o Parque Nacional dos Lençóis Maranhenses. Nesta área chove mais de 300 vezes do que no deserto do Saara e a região é um grande oásis.",
+            "Passeios incríveis incluem: voar sobre as dunas, andar de jipe ou caminhar nas trilhas entre as dunas e lagoas."
+          ]
+        }
+      }
+    },
+    "manaus": {
+      "intro": {
+        "title": { "de": "Manaus", "pt": "Manaus" },
+        "description": {
+          "de": "Die Hauptstadt des Amazonas.",
+          "pt": "A capital do estado do Amazonas."
+        },
+        "backgroundImage": ""
+      },
+      "content": {
+        "images": ["", "", ""],
+        "paragraphs": {
+          "de": [
+            "In Manaus können Sie sich eine Oper im berühmten Stadttheater anhören oder auch den Amazonas, den größten tropischen Regenwald der Welt, besuchen. Dieser wird durch seine üppige Artenvielfalt auch liebevoll als die Lunge der Welt bezeichnet."
+          ],
+          "pt": [
+            "Aqui você pode ouvir uma ópera no famoso Teatro da cidade e visitar a maior floresta tropical úmida do mundo - a Amazônia, com sua exuberante biodiversidade. Por isso é carinhosamente considerada o pulmão do mundo."
+          ]
+        }
+      }
+    },
+    "pantanal": {
+      "intro": {
+        "title": { "de": "Pantanal", "pt": "Pantanal" },
+        "description": {
+          "de": "Das größte Naturschutzgebiet Südamerikas",
+          "pt": "A maior reserva ecológica da América do Sul"
+        },
+        "backgroundImage": ""
+      },
+      "content": {
+        "images": ["", ""],
+        "paragraphs": {
+          "de": [
+            "Mit einer Fläche von 230.000 km² ist die Artenvielfalt in diesem riesigen Überschwemmungsgebiet unübertroffen.",
+            "Die beste Reisezeit für einen Besuch ist die Trockenzeit von Juni bis Oktober. In dieser Zeit sind die Temperaturen angenehm und der niedrige Wasserstand erlaubt es die Tierwelt am besten zu beobachten."
+          ],
+          "pt": [
+            "Com uma área de 230.000 km² - a diversidade de espécies nesta vasta planície de inundação é incomparável.",
+            "A melhor época para visitar é a estação seca de junho a outubro, com temperaturas agradáveis e de água baixa, o que promove a vida selvagem."
+          ]
+        }
+      }
+    },
+    "rio-de-janeiro": {
+      "intro": {
+        "title": { "de": "Rio de Janeiro", "pt": "Rio de Janeiro" },
+        "description": {
+          "de": "Wunderbare Stadt.",
+          "pt": "A Cidade Maravilhosa."
+        },
+        "backgroundImage": ""
+      },
+      "content": {
+        "images": ["", "", ""],
+        "paragraphs": {
+          "de": [
+            "Rio de Janeiro ist weltweit für seine landschaftliche Schönheit, seine Lage, den Karneval und seine Gastfreundschaft bekannt. In der Stadt ist immer etwas los.",
+            "Es gibt Ausstellungen, Theater, Tanz, Sportereignisse, Konzerte und andere Veranstaltungen für jeden Geschmack - wie zum Beispiel das Drachenfliegen über die schönsten Landschaften Rios."
+          ],
+          "pt": [
+            "Conhecida mundialmente por suas belezas naturais, carnaval e pela gentileza do seu povo.",
+            "Na cidade, há sempre algo acontecendo: exposições, peças de teatro, espetáculos de dança e apresentações musicais, eventos esportivos para todos os gostos e bolsos."
+          ]
+        }
+      }
+    },
+    "salvador": {
+      "intro": {
+        "title": { "de": "Salvador", "pt": "Salvador" },
+        "description": {
+          "de": "Afro-brasilianische Stadt mit historischem und musikalischem Kern.",
+          "pt": "Cidade afro-brasileira, patrimônio histórico e um dos berços musicais do país."
+        },
+        "backgroundImage": ""
+      },
+      "content": {
+        "images": ["", ""],
+        "paragraphs": {
+          "de": [
+            "Die Hauptstadt des Bundesstaates Bahia, ist eines der wichtigsten touristischen Ziele in Brasilien. Salvador ist bekannt für seine reiche Geschichte, die Integration des Erbes anderer Völker, die Verschmelzung von Religionen und die Gastfreundschaft seiner Menschen. Ein Spaziergang durch die Straßen der Altstadt von Salvador führt den Besucher zurück an den Anfang der Geschichte des Landes.",
+            "Salvador gilt als kulturelle Hauptstadt Brasiliens und ist der Geburtsort einiger Künstler von Weltruf."
+          ],
+          "pt": [
+            "Um dos principais destinos turísticos brasileiro, Salvador da Bahia , primeira capital do Brasil, é conhecida por sua rica história, por causa do legado de outras nações, pela fusão religiosa e pela hospitalidade de seu povo. Uma caminhada pelas ruas da parte histórica da cidade é uma viagem através do tempo, uma volta para o começo da história brasileira.",
+            "Salvador é considerada a capital cultural do Brasil e o berço de grandes nomes em diversas expressões da arte."
+          ]
+        }
+      }
+    }
+  }
+}

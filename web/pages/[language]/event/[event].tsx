@@ -6,9 +6,9 @@ import Header from '@/components/sections/Header';
 import Footer from '@/components/sections/Footer';
 import styles from '@/styles/Layout.module.css';
 
-type Props = { language: string };
+type Props = { language: string; event: string };
 
-const Inquiry: NextPage<Props> = ({ language }) => {
+const Event: NextPage<Props> = ({ language, event }) => {
   return (
     <div className={styles.container}>
       <Head>
@@ -18,7 +18,7 @@ const Inquiry: NextPage<Props> = ({ language }) => {
       </Head>
       <Header language={language} />
       <Container>
-        <main className={styles.main}>Inquiry</main>
+        <main className={styles.main}>Event {event}</main>
       </Container>
       <Footer />
     </div>
@@ -28,8 +28,10 @@ const Inquiry: NextPage<Props> = ({ language }) => {
 export const getServerSideProps: GetServerSideProps = async ({
   params,
 }): Promise<{ props: any }> => {
-  const { language } = params ? params : { language: 'de' };
-  return { props: { language } };
+  const { language, event } = params
+    ? params
+    : { language: 'de', event: 'xxx' };
+  return { props: { language, event } };
 };
 
-export default Inquiry;
+export default Event;

@@ -14,6 +14,7 @@ const Home: NextPage<Props> = ({ language }) => {
       <Head>
         <title>Latin Travel</title>
         <meta name="description" content="XXXXXXXX" />
+        <meta property="og:title" content="Latin Travel Express" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Header language={language} />
