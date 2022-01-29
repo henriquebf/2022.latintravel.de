@@ -1,17 +1,21 @@
 import type { NextPage } from 'next';
 import Container from '@/components/layout/Container';
-import styles from '@/styles/Layout.module.css';
 
 type Props = { title: string; description: string; backgroundImage: string };
 
-const Intro: NextPage<Props> = ({ title, description }) => {
+const Intro: NextPage<Props> = ({ title, description, backgroundImage }) => {
   return (
-    <footer className={styles.section}>
+    <section className="intro">
       <Container>
         <div>{title}</div>
         <div>{description}</div>
       </Container>
-    </footer>
+      <style jsx>{`
+        .intro {
+          background-image: url(${backgroundImage});
+        }
+      `}</style>
+    </section>
   );
 };
 
