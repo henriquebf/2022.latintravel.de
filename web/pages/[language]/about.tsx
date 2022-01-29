@@ -4,13 +4,12 @@ import { GetServerSideProps } from 'next';
 import Container from '@/components/layout/Container';
 import Header from '@/components/sections/Header';
 import Footer from '@/components/sections/Footer';
-import styles from '@/styles/Layout.module.css';
 
 type Props = { language: string };
 
 const About: NextPage<Props> = ({ language }) => {
   return (
-    <div className={styles.container}>
+    <div>
       <Head>
         <title>Latin Travel</title>
         <meta name="description" content="XXXXXXXX" />
@@ -18,7 +17,7 @@ const About: NextPage<Props> = ({ language }) => {
       </Head>
       <Header language={language} />
       <Container>
-        <main className={styles.main}>About</main>
+        <main>About</main>
       </Container>
       <Footer />
     </div>
