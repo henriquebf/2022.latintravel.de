@@ -3,6 +3,7 @@ import Head from 'next/head';
 import { GetServerSideProps } from 'next';
 import Header from '@/components/sections/Header';
 import Intro from '@/components/sections/Intro';
+import Discover from '@/components/sections/Discover';
 import Footer from '@/components/sections/Footer';
 import { getContent } from '@/helpers/contentHelper';
 
@@ -28,6 +29,14 @@ const Home: NextPage<Props> = ({ language }) => {
             'backgroundImage',
           ])}
         ></Intro>
+        <Discover
+          headline={getContent(language, ['home', 'experiences', 'title'])}
+          text={getContent(language, ['home', 'experiences', 'description'])}
+        />
+        <Discover
+          headline={getContent(language, ['home', 'events', 'title'])}
+          text={getContent(language, ['home', 'events', 'description'])}
+        />
       </main>
       <Footer />
     </div>
