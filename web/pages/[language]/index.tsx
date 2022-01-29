@@ -5,13 +5,12 @@ import Header from '@/components/sections/Header';
 import Intro from '@/components/sections/Intro';
 import Footer from '@/components/sections/Footer';
 import { getContent } from '@/helpers/contentHelper';
-import styles from '@/styles/Layout.module.css';
 
 type Props = { language: string };
 
 const Home: NextPage<Props> = ({ language }) => {
   return (
-    <div className={styles.container}>
+    <div>
       <Head>
         <title>Latin Travel</title>
         <meta name="description" content="XXXXXXXX" />
@@ -19,7 +18,7 @@ const Home: NextPage<Props> = ({ language }) => {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Header language={language} />
-      <main className={styles.main}>
+      <main>
         <Intro
           title={getContent(language, ['home', 'intro', 'title'])}
           description={getContent(language, ['home', 'intro', 'description'])}
