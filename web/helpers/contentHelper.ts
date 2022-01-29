@@ -5,5 +5,10 @@ export const getContent = (language: string, input: string[]): string => {
   for (const o of input) {
     branch = branch[o];
   }
-  return branch && branch[language] ? branch[language] : '[content-not-found!]';
+
+  return typeof branch === 'string'
+    ? branch
+    : branch && branch[language]
+    ? branch[language]
+    : '[ERROR: content not found!]';
 };
