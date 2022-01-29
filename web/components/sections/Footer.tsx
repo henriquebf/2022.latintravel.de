@@ -7,6 +7,10 @@ const About: NextPage<Props> = () => {
   return (
     <footer>
       <Container>footer</Container>
+      <style jsx>{`
+        footer {
+        }
+      `}</style>
     </footer>
   );
 };

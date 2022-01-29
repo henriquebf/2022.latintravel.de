@@ -7,6 +7,10 @@ const Content: NextPage<Props> = () => {
   return (
     <section>
       <Container>Content</Container>
+      <style jsx>{`
+        section {
+        }
+      `}</style>
     </section>
   );
 };

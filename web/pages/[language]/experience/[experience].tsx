@@ -1,7 +1,6 @@
 import type { NextPage } from 'next';
 import Head from 'next/head';
 import { GetServerSideProps } from 'next';
-import Container from '@/components/layout/Container';
 import Header from '@/components/sections/Header';
 import Footer from '@/components/sections/Footer';
 
@@ -16,9 +15,7 @@ const Experience: NextPage<Props> = ({ language, experience }) => {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Header language={language} />
-      <Container>
-        <main>Experience {experience}</main>
-      </Container>
+      <main>Experience {experience}</main>
       <Footer />
     </div>
   );

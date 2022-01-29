@@ -35,6 +35,10 @@ const Header: NextPage<Props> = ({ language }) => {
           <Link href={`/${language}/experience/xxx`}>Experience - XXX</Link>
         </nav>
       </Container>
+      <style jsx>{`
+        header {
+        }
+      `}</style>
     </header>
   );
 };
