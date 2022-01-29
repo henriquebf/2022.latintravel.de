@@ -46,7 +46,7 @@ const Experience: NextPage<Props> = ({ language, experience }) => {
           'intro',
           'backgroundImage',
         ])}
-      ></Intro>
+      />
       <Content
         images={[]}
         paragraphs={getParagraphs(language, [

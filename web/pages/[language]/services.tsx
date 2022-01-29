@@ -2,8 +2,10 @@ import type { NextPage } from 'next';
 import Head from 'next/head';
 import { GetServerSideProps } from 'next';
 import Header from '@/components/sections/Header';
+import Intro from '@/components/sections/Intro';
 import Content from '@/components/sections/Content';
 import Footer from '@/components/sections/Footer';
+import { getContent } from '@/helpers/contentHelper';
 import { getParagraphs } from '@/helpers/contentHelper';
 
 type Props = { language: string };
@@ -17,6 +19,19 @@ const Services: NextPage<Props> = ({ language }) => {
       </Head>
       <Header language={language} />
       <main>
+        <Intro
+          title={getContent(language, ['services', 'intro', 'title'])}
+          description={getContent(language, [
+            'services',
+            'intro',
+            'description',
+          ])}
+          backgroundImage={getContent(language, [
+            'services',
+            'intro',
+            'backgroundImage',
+          ])}
+        />
         <Content
           images={[]}
           paragraphs={getParagraphs(language, [

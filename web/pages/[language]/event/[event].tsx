@@ -41,7 +41,7 @@ const Event: NextPage<Props> = ({ language, event }) => {
           'intro',
           'backgroundImage',
         ])}
-      ></Intro>
+      />
       <Content
         images={[]}
         paragraphs={getParagraphs(language, [

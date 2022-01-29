@@ -31,7 +31,7 @@ const Home: NextPage<Props> = ({ language }) => {
             'intro',
             'backgroundImage',
           ])}
-        ></Intro>
+        />
         <Discover
           headline={getContent(language, ['home', 'experiences', 'title'])}
           text={getContent(language, ['home', 'experiences', 'description'])}
