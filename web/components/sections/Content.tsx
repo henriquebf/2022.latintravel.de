@@ -11,7 +11,7 @@ const Content: NextPage<Props> = ({ images, paragraphs }) => {
           <p key={_i}>{i}</p>
         ))}
         {paragraphs.map((p, _i) => (
-          <p key={_i}>{p}</p>
+          <p key={_i} dangerouslySetInnerHTML={{ __html: p }} />
         ))}
       </Container>
       <style jsx>{`

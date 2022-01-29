@@ -13,7 +13,6 @@ const Contact: NextPage<Props> = ({ language }) => {
     <div>
       <Head>
         <title>Latin Travel</title>
-        <meta name="description" content="XXXXXXXX" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Header language={language} />
@@ -27,7 +26,7 @@ const Contact: NextPage<Props> = ({ language }) => {
           ])}
         />
       </main>
-      <Footer />
+      <Footer language={language} />
     </div>
   );
 };

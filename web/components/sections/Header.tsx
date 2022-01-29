@@ -23,7 +23,7 @@ const Header: NextPage<Props> = ({ language }) => {
   return (
     <header id="header" className={classNames([showHeader ? 'show' : 'hide'])}>
       <Container>
-        <nav id="nav">
+        <nav>
           <Link href={`/${language}`}>Home</Link>
           <Link href={`/${language}/about`}>About</Link>
           <Link href={`/${language}/contact`}>Contact</Link>
@@ -32,7 +32,6 @@ const Header: NextPage<Props> = ({ language }) => {
           <Link href={`/${language}/impressum`}>Impressum</Link>
           <Link href={`/${language}/inquiry`}>Inquiry</Link>
           <Link href={`/${language}/services`}>Services</Link>
-          <Link href={`/${language}/experience/xxx`}>Experience - XXX</Link>
         </nav>
       </Container>
       <style jsx>{`

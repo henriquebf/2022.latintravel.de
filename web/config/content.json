@@ -54,32 +54,22 @@
     "content": {
       "paragraphs": {
         "de": [
-          "Weidende 8",
-          "22395 Hamburg",
+          "Weidende 8<br />22395 Hamburg",
           "",
-          "+49 40 6028080",
-          "+49 40 6028646",
-          "Fax: +49 40 6028081",
+          "+49 40 6028080<br />+49 40 6028646<br />Fax: +49 40 6028081",
           "",
-          "Montags - Freitags: ",
-          "10:00-14:00/15:00-18:00",
+          "Montags - Freitags:<br />10:00-14:00/15:00-18:00",
           "",
-          "E-Mail: info@latin-travel.de",
-          "Skype: latin-travel-express"
+          "E-Mail: info@latin-travel.de<br />Skype: latin-travel-express"
         ],
         "pt": [
-          "Weidende 8",
-          "22395 Hamburg",
+          "Weidende 8<br />22395 Hamburg",
           "",
-          "+49 40 6028080",
-          "+49 40 6028646",
-          "Fax: +49 40 6028081",
+          "+49 40 6028080<br />+49 40 6028646<br />Fax: +49 40 6028081",
           "",
-          "Segunda à Sexta-feira: ",
-          "10:00-14:00/15:00-18:00",
+          "Segunda à Sexta-feira:<br />10:00-14:00/15:00-18:00",
           "",
-          "E-Mail: info@latin-travel.de",
-          "Skype: latin-travel-express"
+          "E-Mail: info@latin-travel.de<br />Skype: latin-travel-express"
         ]
       }
     }

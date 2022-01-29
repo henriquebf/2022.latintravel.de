@@ -41,7 +41,7 @@ const Home: NextPage<Props> = ({ language }) => {
           text={getContent(language, ['home', 'events', 'description'])}
         />
       </main>
-      <Footer />
+      <Footer language={language} />
     </div>
   );
 };

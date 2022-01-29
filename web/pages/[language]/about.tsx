@@ -26,7 +26,7 @@ const About: NextPage<Props> = ({ language }) => {
           ])}
         />
       </main>
-      <Footer />
+      <Footer language={language} />
     </div>
   );
 };
