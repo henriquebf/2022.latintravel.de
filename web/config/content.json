@@ -233,10 +233,14 @@
           "de": "Machen Sie aus Ihrer Reise ein erfolgreiches Geschäft.",
           "pt": "Faça da sua viagem um negócio bem sucedido."
         },
-        "backgroundImage": ""
+        "backgroundImage": "/events/business/welcome.jpg"
       },
       "content": {
-        "images": ["", "", ""],
+        "images": [
+          "/events/business/item-1.jpg",
+          "/events/business/item-2.jpg",
+          "/events/business/item-3.jpg"
+        ],
         "paragraphs": {
           "de": [
             "Heute ist Brasilien die sechstgrößte Weltwirtschaft. In diesem wirtschaftlichen Wachstum boomen die Beziehung zwischen Brasilien und Europa. Durch diesen Strom hat sich der Verkehr zwischen den beiden Kontinenten intensiviert. Kongresse, Konferenzen, Seminare, Börsen und Messen finden in allen Bereichen der Wirtschaft statt.",
@@ -260,10 +264,14 @@
           "de": "Mit einem umfangreichen Veranstaltungskalender feiert Brasilien das ganze Jahr über die verschiedensten Volksfeste.",
           "pt": "Com um vasto calendário as festas populares do Brasil se manifestam em todo o país."
         },
-        "backgroundImage": ""
+        "backgroundImage": "/events/business/welcome.jpg"
       },
       "content": {
-        "images": ["", "", ""],
+        "images": [
+          "/events/business/item-1.jpg",
+          "/events/business/item-2.jpg",
+          "/events/business/item-3.jpg"
+        ],
         "paragraphs": {
           "de": [
             "Karneval: Der brasilianische Karneval ist das größte Volksfest des Landes. Es erstreckt sich über vier Tage bis Aschermittwoch. Für die Brasilianer ist er eines ihrer wichtigsten Feste. Millionen von Menschen aus aller Welt kommen hier zusammen, um mit viel Musik und Tanz in ausgelassener Fröhlichkeit gemeinsam zu feiern.",
@@ -293,10 +301,13 @@
           "de": "Öffne die Augen und staune.",
           "pt": "Abra os olhos e desfrute."
         },
-        "backgroundImage": ""
+        "backgroundImage": "/experience/abrolhos/welcome.jpg"
       },
       "content": {
-        "images": ["", ""],
+        "images": [
+          "/experience/abrolhos/item-1.jpg",
+          "/experience/abrolhos/item-2.jpg"
+        ],
         "paragraphs": {
           "de": [
             "Bestehend aus fünf Inseln liegt das Abrolhos Archipel im Atlantischen Ozean an der Südküste Bahias. Abrolhos ist sehr beliebt und bekannt bei Tauchern, da sich hier die Heimat sowie die größte Konzentration von Fischen pro m² weltweit befindet.",
@@ -316,10 +327,13 @@
           "de": "Stetige Wassertemperatur von 26° C im ganzen Jahr.",
           "pt": "Uma temperatura da água de 26° todo o ano."
         },
-        "backgroundImage": ""
+        "backgroundImage": "/experience/fernando-de-noronha/welcome.jpg"
       },
       "content": {
-        "images": ["", ""],
+        "images": [
+          "/experience/fernando-de-noronha/item-1.jpg",
+          "/experience/fernando-de-noronha/item-2.jpg"
+        ],
         "paragraphs": {
           "de": [
             "Nur 540 km von Recife und 360 km von Natal entfernt ragt das Archipel Fernando de Noronha aus dem Meer. Hier hat sich ein immenses ökologisches Erbe erhalten. Bekannt geworden ist Fernando de Noronha wegen seiner Delfinschwärme, die es zu einem wahren Paradies für Taucher und Schnorchler machen. Der Archipel umfasst 21 Inseln vulkanischen Ursprungs mit Dutzenden schöner Strände.",
@@ -339,10 +353,13 @@
           "de": "Pure Faszination.",
           "pt": "O significado da exuberância."
         },
-        "backgroundImage": ""
+        "backgroundImage": "/experience/foz-do-iguacu/welcome.jpg"
       },
       "content": {
-        "images": ["", ""],
+        "images": [
+          "/experience/foz-do-iguacu/item-1.jpg",
+          "/experience/foz-do-iguacu/item-2.jpg"
+        ],
         "paragraphs": {
           "de": [
             "Von ausländischen Touristen als zweitbeliebteste Destination Brasiliens gewählt. Die Stadt ist durch die Iguaçú Wasserfälle, die Teil des Weltnaturerbes der UNESCO sind, bekannt",
@@ -358,11 +375,14 @@
     "ilha-grande": {
       "intro": {
         "title": { "de": "Ilha grande", "pt": "Ilha grande" },
-        "description": { "de": "Die Einfachheit der Natur", "pt": "" },
-        "backgroundImage": "A simplicidade do natural"
+        "description": {
+          "de": "Die Einfachheit der Natur",
+          "pt": "A simplicidade do natural"
+        },
+        "backgroundImage": "/experience/ilha-grande/welcome.jpg"
       },
       "content": {
-        "images": [""],
+        "images": ["/experience/ilha-grande/item-1.jpg"],
         "paragraphs": {
           "de": [
             "Wenn Sie Abenteuer in der Natur schätzen, erleben Sie hier eine Vielfalt von Formen, Farben und Kontrasten. Alles ist einfach und natürlich - entdecken Sie die Legenden und Sagen dieses magischen Ortes."
@@ -380,10 +400,13 @@
           "de": "Ein Traum für Wassersportarten.",
           "pt": "O sonho para esportes aquáticos."
         },
-        "backgroundImage": ""
+        "backgroundImage": "/experience/jericoacoara/welcome.jpg"
       },
       "content": {
-        "images": ["", ""],
+        "images": [
+          "/experience/jericoacoara/item-1.jpg",
+          "/experience/jericoacoara/item-2.jpg"
+        ],
         "paragraphs": {
           "de": [
             "Das Dünengebiet von 200 km² im Nordosten des Landes ist bekannt durch seine Süß-und Salzwasserseen, seinen Felserosionen und zählt zu den schönsten Strände weltweit. Auch gehört „Jeri“, wie von vielen liebevoll genannt, unter den Wind- und Kitesurfern zu den besten Surfrevieren."
@@ -401,10 +424,13 @@
           "de": "Ein Wunderwerk der Natur.",
           "pt": "Uma maravilha da natureza."
         },
-        "backgroundImage": ""
+        "backgroundImage": "/experience/lencois/welcome.jpg"
       },
       "content": {
-        "images": ["", ""],
+        "images": [
+          "/experience/lencois/item-1.jpg",
+          "/experience/lencois/item-2.jpg"
+        ],
         "paragraphs": {
           "de": [
             "Stellen Sie sich eine Wüste mit feinem weißen Sand, tausenden kristallklarer Lagunen, einsamen Stränden und sauberen Flüssen vor! Das ist der Nationalpark „Lençois Maranhenses“. Hier regnet es 300-mal mehr als in der Wüste Sahara, was die Region zu einer einzigen großen Oase macht.",
@@ -424,10 +450,15 @@
           "de": "Die Hauptstadt des Amazonas.",
           "pt": "A capital do estado do Amazonas."
         },
-        "backgroundImage": ""
+        "backgroundImage": "/experience/manaus/welcome.jpg"
       },
       "content": {
-        "images": ["", "", ""],
+        "images": [
+          "/experience/manaus/item-1.jpg",
+          "/experience/manaus/item-2.jpg",
+          "/experience/manaus/item-3.jpg",
+          "/experience/manaus/item-4.jpg"
+        ],
         "paragraphs": {
           "de": [
             "In Manaus können Sie sich eine Oper im berühmten Stadttheater anhören oder auch den Amazonas, den größten tropischen Regenwald der Welt, besuchen. Dieser wird durch seine üppige Artenvielfalt auch liebevoll als die Lunge der Welt bezeichnet."
@@ -445,10 +476,13 @@
           "de": "Das größte Naturschutzgebiet Südamerikas",
           "pt": "A maior reserva ecológica da América do Sul"
         },
-        "backgroundImage": ""
+        "backgroundImage": "/experience/pantanal/welcome.jpg"
       },
       "content": {
-        "images": ["", ""],
+        "images": [
+          "/experience/pantanal/item-1.jpg",
+          "/experience/pantanal/item-2.jpg"
+        ],
         "paragraphs": {
           "de": [
             "Mit einer Fläche von 230.000 km² ist die Artenvielfalt in diesem riesigen Überschwemmungsgebiet unübertroffen.",
@@ -468,10 +502,14 @@
           "de": "Wunderbare Stadt.",
           "pt": "A Cidade Maravilhosa."
         },
-        "backgroundImage": ""
+        "backgroundImage": "/experience/rio-de-janeiro/welcome.jpg"
       },
       "content": {
-        "images": ["", "", ""],
+        "images": [
+          "/experience/rio-de-janeiro/item-1.jpg",
+          "/experience/rio-de-janeiro/item-2.jpg",
+          "/experience/rio-de-janeiro/item-3.jpg"
+        ],
         "paragraphs": {
           "de": [
             "Rio de Janeiro ist weltweit für seine landschaftliche Schönheit, seine Lage, den Karneval und seine Gastfreundschaft bekannt. In der Stadt ist immer etwas los.",
@@ -491,10 +529,13 @@
           "de": "Afro-brasilianische Stadt mit historischem und musikalischem Kern.",
           "pt": "Cidade afro-brasileira, patrimônio histórico e um dos berços musicais do país."
         },
-        "backgroundImage": ""
+        "backgroundImage": "/experience/salvador/welcome.jpg"
       },
       "content": {
-        "images": ["", ""],
+        "images": [
+          "/experience/salvador/item-1.jpg",
+          "/experience/salvador/item-2.jpg"
+        ],
         "paragraphs": {
           "de": [
             "Die Hauptstadt des Bundesstaates Bahia, ist eines der wichtigsten touristischen Ziele in Brasilien. Salvador ist bekannt für seine reiche Geschichte, die Integration des Erbes anderer Völker, die Verschmelzung von Religionen und die Gastfreundschaft seiner Menschen. Ein Spaziergang durch die Straßen der Altstadt von Salvador führt den Besucher zurück an den Anfang der Geschichte des Landes.",

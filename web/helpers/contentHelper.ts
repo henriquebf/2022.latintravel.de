@@ -25,3 +25,13 @@ export const getParagraphs = (language: string, input: string[]): string[] => {
     ? branch[language]
     : ['[ERROR: content not found!]'];
 };
+
+// Returns array of image urls (to iterate)
+export const getImages = (input: string[]): string[] => {
+  let branch: any = content;
+  for (const o of input) {
+    branch = branch[o];
+  }
+
+  return branch ? branch : ['[ERROR: content not found!]'];
+};

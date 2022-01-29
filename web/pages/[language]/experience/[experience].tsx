@@ -5,8 +5,7 @@ import Header from '@/components/sections/Header';
 import Intro from '@/components/sections/Intro';
 import Content from '@/components/sections/Content';
 import Footer from '@/components/sections/Footer';
-import { getContent } from '@/helpers/contentHelper';
-import { getParagraphs } from '@/helpers/contentHelper';
+import { getContent, getParagraphs, getImages } from '@/helpers/contentHelper';
 
 type Props = { language: string; experience: string };
 
@@ -48,7 +47,7 @@ const Experience: NextPage<Props> = ({ language, experience }) => {
         ])}
       />
       <Content
-        images={[]}
+        images={getImages(['experiences', experience, 'content', 'images'])}
         paragraphs={getParagraphs(language, [
           'experiences',
           experience,
