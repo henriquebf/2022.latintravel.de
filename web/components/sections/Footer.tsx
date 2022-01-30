@@ -5,7 +5,7 @@ import { getContent, getParagraphs } from '@/helpers/contentHelper';
 
 type Props = { language: string };
 
-const About: NextPage<Props> = ({ language }) => {
+const Footer: NextPage<Props> = ({ language }) => {
   return (
     <footer>
       <Container>
@@ -14,7 +14,7 @@ const About: NextPage<Props> = ({ language }) => {
             <h5>{getContent(language, ['global', 'experiences'])}</h5>
             <ul>
               <li>
-                <Link href={`/${language}/experience/lencois`}>
+                <Link href={`/${language}/experiences/lencois`}>
                   {getContent(language, [
                     'experiences',
                     'lencois',
@@ -24,7 +24,7 @@ const About: NextPage<Props> = ({ language }) => {
                 </Link>
               </li>
               <li>
-                <Link href={`/${language}/experience/ilha-grande`}>
+                <Link href={`/${language}/experiences/ilha-grande`}>
                   {getContent(language, [
                     'experiences',
                     'ilha-grande',
@@ -34,7 +34,7 @@ const About: NextPage<Props> = ({ language }) => {
                 </Link>
               </li>
               <li>
-                <Link href={`/${language}/experience/foz-do-iguacu`}>
+                <Link href={`/${language}/experiences/foz-do-iguacu`}>
                   {getContent(language, [
                     'experiences',
                     'foz-do-iguacu',
@@ -44,7 +44,7 @@ const About: NextPage<Props> = ({ language }) => {
                 </Link>
               </li>
               <li>
-                <Link href={`/${language}/experience/fernando-de-noronha`}>
+                <Link href={`/${language}/experiences/fernando-de-noronha`}>
                   {getContent(language, [
                     'experiences',
                     'fernando-de-noronha',
@@ -54,7 +54,7 @@ const About: NextPage<Props> = ({ language }) => {
                 </Link>
               </li>
               <li>
-                <Link href={`/${language}/experience/abrolhos`}>
+                <Link href={`/${language}/experiences/abrolhos`}>
                   {getContent(language, [
                     'experiences',
                     'abrolhos',
@@ -64,7 +64,7 @@ const About: NextPage<Props> = ({ language }) => {
                 </Link>
               </li>
               <li>
-                <Link href={`/${language}/experience/jericoacoara`}>
+                <Link href={`/${language}/experiences/jericoacoara`}>
                   {getContent(language, [
                     'experiences',
                     'jericoacoara',
@@ -74,7 +74,7 @@ const About: NextPage<Props> = ({ language }) => {
                 </Link>
               </li>
               <li>
-                <Link href={`/${language}/experience/manaus`}>
+                <Link href={`/${language}/experiences/manaus`}>
                   {getContent(language, [
                     'experiences',
                     'manaus',
@@ -84,7 +84,7 @@ const About: NextPage<Props> = ({ language }) => {
                 </Link>
               </li>
               <li>
-                <Link href={`/${language}/experience/salvador`}>
+                <Link href={`/${language}/experiences/salvador`}>
                   {getContent(language, [
                     'experiences',
                     'salvador',
@@ -94,7 +94,7 @@ const About: NextPage<Props> = ({ language }) => {
                 </Link>
               </li>
               <li>
-                <Link href={`/${language}/experience/rio-de-janeiro`}>
+                <Link href={`/${language}/experiences/rio-de-janeiro`}>
                   {getContent(language, [
                     'experiences',
                     'rio-de-janeiro',
@@ -104,7 +104,7 @@ const About: NextPage<Props> = ({ language }) => {
                 </Link>
               </li>
               <li>
-                <Link href={`/${language}/experience/pantanal`}>
+                <Link href={`/${language}/experiences/pantanal`}>
                   {getContent(language, [
                     'experiences',
                     'pantanal',
@@ -119,7 +119,7 @@ const About: NextPage<Props> = ({ language }) => {
             <h5>{getContent(language, ['global', 'events'])}</h5>
             <ul>
               <li>
-                <Link href={`/${language}/event/carnival`}>
+                <Link href={`/${language}/events/carnival`}>
                   {getContent(language, [
                     'events',
                     'carnival',
@@ -129,7 +129,7 @@ const About: NextPage<Props> = ({ language }) => {
                 </Link>
               </li>
               <li>
-                <Link href={`/${language}/event/business`}>
+                <Link href={`/${language}/events/business`}>
                   {getContent(language, [
                     'events',
                     'business',
@@ -192,4 +192,4 @@ const About: NextPage<Props> = ({ language }) => {
   );
 };
 
-export default About;
+export default Footer;

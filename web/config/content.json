@@ -335,12 +335,12 @@
           "de": "Öffne die Augen und staune.",
           "pt": "Abra os olhos e desfrute."
         },
-        "backgroundImage": "/experience/abrolhos/welcome.jpg"
+        "backgroundImage": "/experiences/abrolhos/welcome.jpg"
       },
       "content": {
         "images": [
-          "/experience/abrolhos/item-1.jpg",
-          "/experience/abrolhos/item-2.jpg"
+          "/experiences/abrolhos/item-1.jpg",
+          "/experiences/abrolhos/item-2.jpg"
         ],
         "paragraphs": {
           "de": [
@@ -361,12 +361,12 @@
           "de": "Stetige Wassertemperatur von 26° C im ganzen Jahr.",
           "pt": "Uma temperatura da água de 26° todo o ano."
         },
-        "backgroundImage": "/experience/fernando-de-noronha/welcome.jpg"
+        "backgroundImage": "/experiences/fernando-de-noronha/welcome.jpg"
       },
       "content": {
         "images": [
-          "/experience/fernando-de-noronha/item-1.jpg",
-          "/experience/fernando-de-noronha/item-2.jpg"
+          "/experiences/fernando-de-noronha/item-1.jpg",
+          "/experiences/fernando-de-noronha/item-2.jpg"
         ],
         "paragraphs": {
           "de": [
@@ -387,12 +387,12 @@
           "de": "Pure Faszination.",
           "pt": "O significado da exuberância."
         },
-        "backgroundImage": "/experience/foz-do-iguacu/welcome.jpg"
+        "backgroundImage": "/experiences/foz-do-iguacu/welcome.jpg"
       },
       "content": {
         "images": [
-          "/experience/foz-do-iguacu/item-1.jpg",
-          "/experience/foz-do-iguacu/item-2.jpg"
+          "/experiences/foz-do-iguacu/item-1.jpg",
+          "/experiences/foz-do-iguacu/item-2.jpg"
         ],
         "paragraphs": {
           "de": [
@@ -413,10 +413,10 @@
           "de": "Die Einfachheit der Natur",
           "pt": "A simplicidade do natural"
         },
-        "backgroundImage": "/experience/ilha-grande/welcome.jpg"
+        "backgroundImage": "/experiences/ilha-grande/welcome.jpg"
       },
       "content": {
-        "images": ["/experience/ilha-grande/item-1.jpg"],
+        "images": ["/experiences/ilha-grande/item-1.jpg"],
         "paragraphs": {
           "de": [
             "Wenn Sie Abenteuer in der Natur schätzen, erleben Sie hier eine Vielfalt von Formen, Farben und Kontrasten. Alles ist einfach und natürlich - entdecken Sie die Legenden und Sagen dieses magischen Ortes."
@@ -434,12 +434,12 @@
           "de": "Ein Traum für Wassersportarten.",
           "pt": "O sonho para esportes aquáticos."
         },
-        "backgroundImage": "/experience/jericoacoara/welcome.jpg"
+        "backgroundImage": "/experiences/jericoacoara/welcome.jpg"
       },
       "content": {
         "images": [
-          "/experience/jericoacoara/item-1.jpg",
-          "/experience/jericoacoara/item-2.jpg"
+          "/experiences/jericoacoara/item-1.jpg",
+          "/experiences/jericoacoara/item-2.jpg"
         ],
         "paragraphs": {
           "de": [
@@ -458,12 +458,12 @@
           "de": "Ein Wunderwerk der Natur.",
           "pt": "Uma maravilha da natureza."
         },
-        "backgroundImage": "/experience/lencois/welcome.jpg"
+        "backgroundImage": "/experiences/lencois/welcome.jpg"
       },
       "content": {
         "images": [
-          "/experience/lencois/item-1.jpg",
-          "/experience/lencois/item-2.jpg"
+          "/experiences/lencois/item-1.jpg",
+          "/experiences/lencois/item-2.jpg"
         ],
         "paragraphs": {
           "de": [
@@ -484,14 +484,14 @@
           "de": "Die Hauptstadt des Amazonas.",
           "pt": "A capital do estado do Amazonas."
         },
-        "backgroundImage": "/experience/manaus/welcome.jpg"
+        "backgroundImage": "/experiences/manaus/welcome.jpg"
       },
       "content": {
         "images": [
-          "/experience/manaus/item-1.jpg",
-          "/experience/manaus/item-2.jpg",
-          "/experience/manaus/item-3.jpg",
-          "/experience/manaus/item-4.jpg"
+          "/experiences/manaus/item-1.jpg",
+          "/experiences/manaus/item-2.jpg",
+          "/experiences/manaus/item-3.jpg",
+          "/experiences/manaus/item-4.jpg"
         ],
         "paragraphs": {
           "de": [
@@ -510,12 +510,12 @@
           "de": "Das größte Naturschutzgebiet Südamerikas",
           "pt": "A maior reserva ecológica da América do Sul"
         },
-        "backgroundImage": "/experience/pantanal/welcome.jpg"
+        "backgroundImage": "/experiences/pantanal/welcome.jpg"
       },
       "content": {
         "images": [
-          "/experience/pantanal/item-1.jpg",
-          "/experience/pantanal/item-2.jpg"
+          "/experiences/pantanal/item-1.jpg",
+          "/experiences/pantanal/item-2.jpg"
         ],
         "paragraphs": {
           "de": [
@@ -536,13 +536,13 @@
           "de": "Wunderbare Stadt.",
           "pt": "A Cidade Maravilhosa."
         },
-        "backgroundImage": "/experience/rio-de-janeiro/welcome.jpg"
+        "backgroundImage": "/experiences/rio-de-janeiro/welcome.jpg"
       },
       "content": {
         "images": [
-          "/experience/rio-de-janeiro/item-1.jpg",
-          "/experience/rio-de-janeiro/item-2.jpg",
-          "/experience/rio-de-janeiro/item-3.jpg"
+          "/experiences/rio-de-janeiro/item-1.jpg",
+          "/experiences/rio-de-janeiro/item-2.jpg",
+          "/experiences/rio-de-janeiro/item-3.jpg"
         ],
         "paragraphs": {
           "de": [
@@ -563,12 +563,12 @@
           "de": "Afro-brasilianische Stadt mit historischem und musikalischem Kern.",
           "pt": "Cidade afro-brasileira, patrimônio histórico e um dos berços musicais do país."
         },
-        "backgroundImage": "/experience/salvador/welcome.jpg"
+        "backgroundImage": "/experiences/salvador/welcome.jpg"
       },
       "content": {
         "images": [
-          "/experience/salvador/item-1.jpg",
-          "/experience/salvador/item-2.jpg"
+          "/experiences/salvador/item-1.jpg",
+          "/experiences/salvador/item-2.jpg"
         ],
         "paragraphs": {
           "de": [

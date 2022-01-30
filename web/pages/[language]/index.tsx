@@ -1,6 +1,5 @@
-import type { NextPage } from 'next';
+import type { NextPage, GetServerSideProps } from 'next';
 import Head from 'next/head';
-import { GetServerSideProps } from 'next';
 import Header from '@/components/sections/Header';
 import Intro from '@/components/sections/Intro';
 import Discover from '@/components/sections/Discover';
@@ -33,12 +32,29 @@ const Home: NextPage<Props> = ({ language }) => {
           ])}
         />
         <Discover
+          language={language}
+          section="experiences"
           headline={getContent(language, ['home', 'experiences', 'title'])}
           text={getContent(language, ['home', 'experiences', 'description'])}
+          thumbs={[
+            'lencois',
+            'ilha-grande',
+            'foz-do-iguacu',
+            'fernando-de-noronha',
+            'abrolhos',
+            'jericoacoara',
+            'manaus',
+            'salvador',
+            'rio-de-janeiro',
+            'pantanal',
+          ]}
         />
         <Discover
+          language={language}
+          section="events"
           headline={getContent(language, ['home', 'events', 'title'])}
           text={getContent(language, ['home', 'events', 'description'])}
+          thumbs={['carnival', 'business']}
         />
       </main>
       <Footer language={language} />
