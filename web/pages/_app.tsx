@@ -21,7 +21,7 @@ function MyApp({ Component, pageProps }: AppProps) {
         html {
           box-sizing: border-box;
           font-family: 'Roboto', Helvetica;
-          font-size: 16px;
+          font-size: 1.2em;
           font-weight: 300;
           line-height: 1.5;
           color: ${colors.light.text_primary_color};

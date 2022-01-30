@@ -1,6 +1,7 @@
 import type { NextPage } from 'next';
 import Image from 'next/image';
 import Link from 'next/link';
+import sizes from '@/config/sizes.json';
 import { getContent, getThumb } from '@/helpers/contentHelper';
 
 type Props = { language: string; section: string; thumb: string };
@@ -26,6 +27,12 @@ const Thumb: NextPage<Props> = ({ language, section, thumb }) => {
           position: relative;
           width: 100%;
           height: 200px;
+        }
+
+        @media (min-width: ${sizes.container}) {
+          .image {
+            height: 400px;
+          }
         }
       `}</style>
     </div>

@@ -1,5 +1,6 @@
 import type { NextPage } from 'next';
 import Image from 'next/image';
+import sizes from '@/config/sizes.json';
 import Container from '@/components/layout/Container';
 
 type Props = { images: string[]; paragraphs: string[] };
@@ -29,15 +30,17 @@ const Content: NextPage<Props> = ({ images, paragraphs }) => {
         </div>
       </Container>
       <style jsx>{`
-        .columns {
-          display: grid;
-          grid-template-columns: 50% 50%;
-        }
-
         .image {
           position: relative;
           width: 100%;
-          height: 400px;
+          height: 200px;
+        }
+
+        @media (min-width: ${sizes.container}) {
+          .columns {
+            display: grid;
+            grid-template-columns: 50% 50%;
+          }
         }
       `}</style>
     </section>

@@ -1,4 +1,5 @@
 import type { NextPage } from 'next';
+import sizes from '@/config/sizes.json';
 import Container from '@/components/layout/Container';
 import Thumb from '@/components/shared/Thumb';
 
@@ -32,7 +33,11 @@ const Content: NextPage<Props> = ({
         section {
         }
 
-        .thumbs {
+        @media (min-width: ${sizes.container}) {
+          .thumbs {
+            display: grid;
+            grid-template-columns: 50% 50%;
+          }
         }
       `}</style>
     </section>

@@ -1,10 +1,13 @@
 import type { NextPage } from 'next';
 import { useEffect, useState } from 'react';
 import Link from 'next/link';
-import { classNames } from '@/helpers/classnameHelper';
+import colors from '@/config/colors.json';
+import sizes from '@/config/sizes.json';
+import zIndexes from '@/config/zIndexes.json';
 import { useScrollPosition } from '@/hooks/useScrollPosition';
 import Container from '@/components/layout/Container';
 import { getContent } from '@/helpers/contentHelper';
+import { classNames } from '@/helpers/classnameHelper';
 
 type Props = { language: string };
 
@@ -44,6 +47,25 @@ const Header: NextPage<Props> = ({ language }) => {
       </Container>
       <style jsx>{`
         header {
+          width: 100%;
+          height: 65px;
+          z-index: ${zIndexes.header};
+          opacity: 1;
+          transition: opacity 0.25s;
+          text-transform: uppercase;
+          color: ${colors.light.text_primary_color};
+          background-color: ${colors.light.bg_primary_color};
+        }
+
+        @media (min-width: ${sizes.container}) {
+          #header {
+            display: block;
+            position: fixed;
+          }
+
+          #header.hide {
+            opacity: 0;
+          }
         }
       `}</style>
     </header>

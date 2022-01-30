@@ -1,5 +1,7 @@
 import type { NextPage } from 'next';
 import Link from 'next/link';
+import colors from '@/config/colors.json';
+import sizes from '@/config/sizes.json';
 import Container from '@/components/layout/Container';
 import { getContent, getParagraphs } from '@/helpers/contentHelper';
 
@@ -186,6 +188,18 @@ const Footer: NextPage<Props> = ({ language }) => {
       </Container>
       <style jsx>{`
         footer {
+          background-color: ${colors.light.bg_secondary_color};
+        }
+
+        h5 {
+          text-transform: uppercase;
+        }
+
+        @media (min-width: ${sizes.container}) {
+          nav {
+            display: grid;
+            grid-template-columns: 25% 25% 25% 25%;
+          }
         }
       `}</style>
     </footer>

@@ -1,7 +1,7 @@
 {
   "light": {
     "bg_primary_color": "white",
-    "bg_secondary_color": "white",
+    "bg_secondary_color": "grey",
     "text_primary_color": "black",
     "text_secondary_color": "grey",
     "text_active_color": "red",
