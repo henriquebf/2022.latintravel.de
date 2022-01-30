@@ -1,4 +1,38 @@
 {
+  "global": {
+    "experiences": {
+      "de": "Brasilien entdecken",
+      "pt": "Descubra o Brasil"
+    },
+    "events": {
+      "de": "Events",
+      "pt": "Eventos"
+    },
+    "about": {
+      "de": "Über uns",
+      "pt": "Sobre nós"
+    },
+    "services": {
+      "de": "Unser Service",
+      "pt": "Nossos Serviços"
+    },
+    "disclaimer": {
+      "de": "Haftungsausschluss",
+      "pt": "Exclusão de Responsabilidade"
+    },
+    "impressum": {
+      "de": "Impressum",
+      "pt": "Expediente"
+    },
+    "data-protection": {
+      "de": "Datenschutz",
+      "pt": "Proteção de Dados"
+    },
+    "contact": {
+      "de": "Kontakt",
+      "pt": "Contato"
+    }
+  },
   "home": {
     "intro": {
       "title": {
