@@ -261,6 +261,7 @@
   },
   "events": {
     "business": {
+      "thumb": "/experiences/business/thumb.jpg",
       "intro": {
         "title": { "de": "Geschäftsreisen", "pt": "Viagens de Negócios" },
         "description": {
@@ -289,6 +290,7 @@
       }
     },
     "carnival": {
+      "thumb": "/experiences/carnival/thumb.jpg",
       "intro": {
         "title": {
           "de": "Karneval & Volksfeste",
@@ -329,6 +331,7 @@
   },
   "experiences": {
     "abrolhos": {
+      "thumb": "/experiences/abrolhos/thumb.jpg",
       "intro": {
         "title": { "de": "Abrolhos", "pt": "Abrolhos" },
         "description": {
@@ -355,6 +358,7 @@
       }
     },
     "fernando-de-noronha": {
+      "thumb": "/experiences/fernando-de-noronha/thumb.jpg",
       "intro": {
         "title": { "de": "Fernando de Noronha", "pt": "Fernando de Noronha" },
         "description": {
@@ -381,6 +385,7 @@
       }
     },
     "foz-do-iguacu": {
+      "thumb": "/experiences/foz-do-iguacu/thumb.jpg",
       "intro": {
         "title": { "de": "Foz do Iguaçu", "pt": "Foz do Iguaçu" },
         "description": {
@@ -407,6 +412,7 @@
       }
     },
     "ilha-grande": {
+      "thumb": "/experiences/ilha-grande/thumb.jpg",
       "intro": {
         "title": { "de": "Ilha grande", "pt": "Ilha grande" },
         "description": {
@@ -428,6 +434,7 @@
       }
     },
     "jericoacoara": {
+      "thumb": "/experiences/jericoacoara/thumb.jpg",
       "intro": {
         "title": { "de": "Jericoacoara", "pt": "Jericoacoara" },
         "description": {
@@ -452,6 +459,7 @@
       }
     },
     "lencois": {
+      "thumb": "/experiences/lencois/thumb.jpg",
       "intro": {
         "title": { "de": "Lençóis Maranhenses", "pt": "Lençóis Maranhenses" },
         "description": {
@@ -478,6 +486,7 @@
       }
     },
     "manaus": {
+      "thumb": "/experiences/manaus/thumb.jpg",
       "intro": {
         "title": { "de": "Manaus", "pt": "Manaus" },
         "description": {
@@ -504,6 +513,7 @@
       }
     },
     "pantanal": {
+      "thumb": "/experiences/pantanal/thumb.jpg",
       "intro": {
         "title": { "de": "Pantanal", "pt": "Pantanal" },
         "description": {
@@ -530,6 +540,7 @@
       }
     },
     "rio-de-janeiro": {
+      "thumb": "/experiences/rio-de-janeiro/thumb.jpg",
       "intro": {
         "title": { "de": "Rio de Janeiro", "pt": "Rio de Janeiro" },
         "description": {
@@ -557,6 +568,7 @@
       }
     },
     "salvador": {
+      "thumb": "/experiences/salvador/thumb.jpg",
       "intro": {
         "title": { "de": "Salvador", "pt": "Salvador" },
         "description": {
