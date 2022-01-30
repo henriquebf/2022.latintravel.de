@@ -2,7 +2,10 @@ import type { NextPage } from 'next';
 import Head from 'next/head';
 import { GetServerSideProps } from 'next';
 import Header from '@/components/sections/Header';
+import Intro from '@/components/sections/Intro';
+import Content from '@/components/sections/Content';
 import Footer from '@/components/sections/Footer';
+import { getContent, getParagraphs, getImages } from '@/helpers/contentHelper';
 
 type Props = { language: string; event: string };
 
@@ -11,12 +14,43 @@ const Event: NextPage<Props> = ({ language, event }) => {
     <div>
       <Head>
         <title>Latin Travel</title>
-        <meta name="description" content="XXXXXXXX" />
+        <meta
+          name="description"
+          content={getContent(language, [
+            'events',
+            event,
+            'intro',
+            'description',
+          ])}
+        />
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Header language={language} />
-      <main>Event {event}</main>
-      <Footer />
+      <Intro
+        title={getContent(language, ['events', event, 'intro', 'title'])}
+        description={getContent(language, [
+          'events',
+          event,
+          'intro',
+          'description',
+        ])}
+        backgroundImage={getContent(language, [
+          'events',
+          event,
+          'intro',
+          'backgroundImage',
+        ])}
+      />
+      <Content
+        images={getImages(['events', event, 'content', 'images'])}
+        paragraphs={getParagraphs(language, [
+          'events',
+          event,
+          'content',
+          'paragraphs',
+        ])}
+      />
+      <Footer language={language} />
     </div>
   );
 };
