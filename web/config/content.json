@@ -264,13 +264,13 @@
           "de": "Mit einem umfangreichen Veranstaltungskalender feiert Brasilien das ganze Jahr über die verschiedensten Volksfeste.",
           "pt": "Com um vasto calendário as festas populares do Brasil se manifestam em todo o país."
         },
-        "backgroundImage": "/events/business/welcome.jpg"
+        "backgroundImage": "/events/carnival/welcome.jpg"
       },
       "content": {
         "images": [
-          "/events/business/item-1.jpg",
-          "/events/business/item-2.jpg",
-          "/events/business/item-3.jpg"
+          "/events/carnival/item-1.jpg",
+          "/events/carnival/item-2.jpg",
+          "/events/carnival/item-3.jpg"
         ],
         "paragraphs": {
           "de": [

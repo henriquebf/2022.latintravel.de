@@ -30,7 +30,6 @@ const Header: NextPage<Props> = ({ language }) => {
           <Link href={`/${language}/data-protection`}>Data Protection</Link>
           <Link href={`/${language}/disclaimer`}>Disclaimer</Link>
           <Link href={`/${language}/impressum`}>Impressum</Link>
-          <Link href={`/${language}/inquiry`}>Inquiry</Link>
           <Link href={`/${language}/services`}>Services</Link>
         </nav>
       </Container>

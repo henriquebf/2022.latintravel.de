@@ -15,13 +15,10 @@ const About: NextPage<Props> = ({ language }) => {
           <Link href={`/${language}/data-protection`}>Data Protection</Link>
           <Link href={`/${language}/disclaimer`}>Disclaimer</Link>
           <Link href={`/${language}/impressum`}>Impressum</Link>
-          <Link href={`/${language}/inquiry`}>Inquiry</Link>
           <Link href={`/${language}/services`}>Services</Link>
           <Link href={`/${language}/event/business`}>business</Link>
           <Link href={`/${language}/event/carnival`}>carnival</Link>
-          <Link href={`/${language}/experience/abrolhos`}>
-            Experience - abrolhos
-          </Link>
+          <Link href={`/${language}/experience/abrolhos`}>abrolhos</Link>
           <Link href={`/${language}/experience/fernando-de-noronha`}>
             fernando-de-noronha
           </Link>
