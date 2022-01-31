@@ -189,6 +189,11 @@ const Footer: NextPage<Props> = ({ language }) => {
       <style jsx>{`
         footer {
           background-color: ${colors.light.bg_secondary_color};
+          border-top: 1px solid ${colors.light.border_highlight_color};
+        }
+
+        nav {
+          padding-bottom: 1.67em;
         }
 
         h5 {

@@ -1,5 +1,7 @@
 {
   "light": {
+    "bg_header_start_color": "rgba(255, 255, 255, 0.3)",
+    "bg_header_active_color": "rgba(255, 255, 255, 1)",
     "bg_primary_color": "white",
     "bg_secondary_color": "grey",
     "text_primary_color": "black",

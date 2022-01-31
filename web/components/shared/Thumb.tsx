@@ -10,7 +10,7 @@ const Thumb: NextPage<Props> = ({ language, section, thumb }) => {
   return (
     <div className="thumb">
       <Link href={`/${language}/${section}/${thumb}`} passHref>
-        <div>
+        <a>
           <div className="image">
             <Image
               src={getThumb(section, thumb)}
@@ -20,7 +20,7 @@ const Thumb: NextPage<Props> = ({ language, section, thumb }) => {
             />
           </div>
           {getContent(language, [section, thumb, 'intro', 'title'])}
-        </div>
+        </a>
       </Link>
       <style jsx>{`
         .image {

@@ -30,6 +30,10 @@ const Content: NextPage<Props> = ({ images, paragraphs }) => {
         </div>
       </Container>
       <style jsx>{`
+        section {
+          padding: 65px 0;
+        }
+
         .image {
           position: relative;
           width: 100%;
