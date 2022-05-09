@@ -27,7 +27,7 @@ const Intro: NextPage<Props> = ({ title, description, backgroundImage }) => {
           background-image: url(${backgroundImage});
           background-repeat: no-repeat;
           background-position: center;
-          background-size: auto 100%;
+          background-size: cover;
         }
 
         h1,
