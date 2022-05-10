@@ -19,7 +19,7 @@ const Content: NextPage<Props> = ({
   thumbs,
 }) => {
   return (
-    <section id={`#${section}`}>
+    <section id={`${section}`}>
       <Container>
         <h3>{headline}</h3>
         <p>{text}</p>

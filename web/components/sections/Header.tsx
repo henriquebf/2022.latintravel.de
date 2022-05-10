@@ -34,12 +34,12 @@ const Header: NextPage<Props> = ({ language }) => {
         <nav>
           <div className="left">
             <span>
-              <Link href={`/${language}/#experiences`}>
+              <Link href={`/${language}#experiences`} scroll={false}>
                 {getContent(language, ['global', 'experiences'])}
               </Link>
             </span>
             <span>
-              <Link href={`/${language}/#events`}>
+              <Link href={`/${language}#events`} scroll={false}>
                 {getContent(language, ['global', 'events'])}
               </Link>
             </span>
