@@ -3,11 +3,11 @@
     "bg_header_start_color": "rgba(255, 255, 255, 0.3)",
     "bg_header_active_color": "rgba(255, 255, 255, 1)",
     "bg_primary_color": "white",
-    "bg_secondary_color": "grey",
+    "bg_secondary_color": "#e6e6e6",
     "text_primary_color": "black",
     "text_secondary_color": "grey",
     "text_active_color": "red",
     "border_discreet_color": "grey",
-    "border_highlight_color": "black"
+    "border_highlight_color": "#bfbfbf"
   }
 }
