@@ -12,8 +12,10 @@ const Intro: NextPage<Props> = ({ title, description, backgroundImage }) => {
         <div className="intro">
           <div></div>
           <div>
-            <h1>{title}</h1>
-            <h3>{description}</h3>
+            <div className="text">
+              <h1>{title}</h1>
+              <h3>{description}</h3>
+            </div>
           </div>
         </div>
       </Container>
@@ -35,6 +37,12 @@ const Intro: NextPage<Props> = ({ title, description, backgroundImage }) => {
           font-weight: 400;
           padding: 0;
           margin: 0;
+        }
+
+        .text {
+          padding: 25px;
+          color: white;
+          background-color: rgba(0, 0, 0, 0.5);
         }
 
         @media (min-width: ${sizes.container}) {

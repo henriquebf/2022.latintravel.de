@@ -70,8 +70,7 @@ const Header: NextPage<Props> = ({ language }) => {
               </Link>
             </span>
             <span>
-              <Link href={`/de`}>Deutsch</Link>
-              <Link href={`/pt`}>Português</Link>
+              <Link href={`/de`}>DE</Link> <Link href={`/pt`}>PT</Link>
             </span>
           </div>
         </nav>
