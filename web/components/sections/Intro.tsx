@@ -39,8 +39,12 @@ const Intro: NextPage<Props> = ({ title, description, backgroundImage }) => {
           margin: 0;
         }
 
+        h3 {
+          margin-top: 10px;
+        }
+
         .text {
-          padding: 25px;
+          padding: 20px;
           color: white;
           background-color: rgba(0, 0, 0, 0.5);
         }

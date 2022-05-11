@@ -11,22 +11,41 @@ const Thumb: NextPage<Props> = ({ language, section, thumb }) => {
     <div className="thumb">
       <Link href={`/${language}/${section}/${thumb}`} passHref>
         <a>
-          <div className="image">
-            <Image
-              src={getThumb(section, thumb)}
-              alt="image"
-              layout={'fill'}
-              objectFit={'cover'}
-            />
+          <div className="thumb-container">
+            <div className="image">
+              <Image
+                src={getThumb(section, thumb)}
+                alt="image"
+                layout={'fill'}
+                objectFit={'cover'}
+              />
+            </div>
+            <span className="text">
+              {getContent(language, [section, thumb, 'intro', 'title'])}
+            </span>
           </div>
-          {getContent(language, [section, thumb, 'intro', 'title'])}
         </a>
       </Link>
       <style jsx>{`
+        .thumb-container {
+          position: relative;
+        }
+
         .image {
           position: relative;
+          z-index: 1;
           width: 100%;
           height: 200px;
+        }
+
+        .text {
+          position: absolute;
+          z-index: 2;
+          bottom: 0;
+          right: 0;
+          padding: 10px;
+          font-weight: 400;
+          background-color: rgba(255, 255, 255, 0.5);
         }
 
         @media (min-width: ${sizes.container}) {
