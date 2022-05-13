@@ -22,7 +22,7 @@ const Content: NextPage<Props> = ({ images, paragraphs }) => {
               </div>
             ))}
           </div>
-          <div>
+          <div className="text">
             {paragraphs.map((p, _i) => (
               <p key={_i} dangerouslySetInnerHTML={{ __html: p }} />
             ))}
@@ -37,13 +37,21 @@ const Content: NextPage<Props> = ({ images, paragraphs }) => {
         .image {
           position: relative;
           width: 100%;
-          height: 200px;
+          height: 400px;
+        }
+
+        .text {
+          font-size: 1.1em;
         }
 
         @media (min-width: ${sizes.container}) {
           .columns {
             display: grid;
             grid-template-columns: 50% 50%;
+          }
+
+          .text {
+            padding-left: 25px;
           }
         }
       `}</style>

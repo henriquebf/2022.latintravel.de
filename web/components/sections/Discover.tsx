@@ -31,6 +31,19 @@ const Content: NextPage<Props> = ({
       </Container>
       <style jsx>{`
         section {
+          padding-top: 50px;
+        }
+
+        h3 {
+          font-size: 1.2em;
+        }
+
+        p {
+          font-size: 1.1em;
+        }
+
+        .thumbs {
+          margin-top: 35px;
         }
 
         @media (min-width: ${sizes.container}) {

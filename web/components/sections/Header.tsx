@@ -70,7 +70,7 @@ const Header: NextPage<Props> = ({ language }) => {
               </Link>
             </span>
             <span>
-              <Link href={`/de`}>DE</Link> <Link href={`/pt`}>PT</Link>
+              <Link href={`/de`}>🇩🇪</Link> <Link href={`/pt`}>🇧🇷</Link>
             </span>
           </div>
         </nav>
@@ -83,6 +83,7 @@ const Header: NextPage<Props> = ({ language }) => {
           z-index: ${zIndexes.header};
           position: fixed;
           text-transform: uppercase;
+          font-size: 0.9em;
           font-weight: 400;
           transition: background-color 0.25s;
           color: ${colors.light.text_primary_color};

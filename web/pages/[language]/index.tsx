@@ -3,6 +3,7 @@ import Head from 'next/head';
 import Header from '@/components/sections/Header';
 import Intro from '@/components/sections/Intro';
 import Discover from '@/components/sections/Discover';
+import Divider from '@/components/shared/Divider';
 import Footer from '@/components/sections/Footer';
 import { getContent } from '@/helpers/contentHelper';
 
@@ -56,6 +57,7 @@ const Home: NextPage<Props> = ({ language }) => {
           text={getContent(language, ['home', 'events', 'description'])}
           thumbs={['carnival', 'business']}
         />
+        <Divider />
       </main>
       <Footer language={language} />
     </div>

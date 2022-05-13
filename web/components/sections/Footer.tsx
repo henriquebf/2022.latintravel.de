@@ -189,7 +189,8 @@ const Footer: NextPage<Props> = ({ language }) => {
       <style jsx>{`
         footer {
           background-color: ${colors.light.bg_secondary_color};
-          border-top: 1px solid ${colors.light.border_highlight_color};
+          border-top: 1px solid ${colors.light.border_discreet_color};
+          font-size: 0.9em;
         }
 
         nav {
@@ -198,6 +199,7 @@ const Footer: NextPage<Props> = ({ language }) => {
 
         h5 {
           text-transform: uppercase;
+          font-size: 0.9em;
         }
 
         @media (min-width: ${sizes.container}) {
