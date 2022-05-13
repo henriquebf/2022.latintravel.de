@@ -41,7 +41,7 @@ const Thumb: NextPage<Props> = ({ language, section, thumb }) => {
         .text {
           position: absolute;
           z-index: 2;
-          bottom: 0;
+          top: 0;
           right: 0;
           padding: 10px;
           font-weight: 400;

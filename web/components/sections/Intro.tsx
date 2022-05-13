@@ -1,4 +1,6 @@
 import type { NextPage } from 'next';
+import Image from 'next/image';
+import colors from '@/config/colors.json';
 import sizes from '@/config/sizes.json';
 import zIndexes from '@/config/zIndexes.json';
 import Container from '@/components/layout/Container';
@@ -13,7 +15,16 @@ const Intro: NextPage<Props> = ({ title, description, backgroundImage }) => {
           <div></div>
           <div>
             <div className="text">
+              <div className="image">
+                <Image
+                  src="/logo-intro.png"
+                  width="200"
+                  height="86"
+                  alt="logo"
+                />
+              </div>
               <h1>{title}</h1>
+              <div className="border"></div>
               <h3>{description}</h3>
             </div>
           </div>
@@ -32,6 +43,11 @@ const Intro: NextPage<Props> = ({ title, description, backgroundImage }) => {
           background-size: cover;
         }
 
+        .image {
+          margin-bottom: 25px;
+          text-align: center;
+        }
+
         h1,
         h3 {
           font-weight: 400;
@@ -46,7 +62,12 @@ const Intro: NextPage<Props> = ({ title, description, backgroundImage }) => {
         .text {
           padding: 20px;
           color: white;
-          background-color: rgba(0, 0, 0, 0.5);
+          background-color: rgba(0, 0, 0, 0.75);
+        }
+
+        .border {
+          margin-top: 10px;
+          border-top: 1px solid ${colors.light.border_highlight_color};
         }
 
         @media (min-width: ${sizes.container}) {
