@@ -35,3 +35,7 @@ export const getImages = (input: string[]): string[] => {
 
   return branch ? branch : ['[ERROR: content not found!]'];
 };
+
+export const getThumb = (section: string, thumb: string): string => {
+  return `/${section}/${thumb}/thumb.jpg`;
+};

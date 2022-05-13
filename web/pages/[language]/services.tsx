@@ -5,8 +5,7 @@ import Header from '@/components/sections/Header';
 import Intro from '@/components/sections/Intro';
 import Content from '@/components/sections/Content';
 import Footer from '@/components/sections/Footer';
-import { getContent } from '@/helpers/contentHelper';
-import { getParagraphs } from '@/helpers/contentHelper';
+import { getContent, getParagraphs } from '@/helpers/contentHelper';
 
 type Props = { language: string };
 
