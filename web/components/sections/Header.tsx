@@ -93,6 +93,7 @@ const Header: NextPage<Props> = ({ language }) => {
         nav {
           height: 65px;
           display: grid;
+          grid-template-columns: 20% 80%;
         }
 
         .left {
@@ -105,7 +106,7 @@ const Header: NextPage<Props> = ({ language }) => {
 
         .center {
           display: flex;
-          justify-content: center;
+          justify-content: left;
           align-items: center;
         }
 
@@ -114,7 +115,8 @@ const Header: NextPage<Props> = ({ language }) => {
         }
 
         .right {
-          display: none;
+          display: flex;
+          justify-content: flex-end;
         }
 
         .right > span {
@@ -127,17 +129,16 @@ const Header: NextPage<Props> = ({ language }) => {
           }
 
           nav {
-            display: grid;
             grid-template-columns: 40% 20% 40%;
+          }
+
+          .center {
+            justify-content: center;
+            align-items: center;
           }
 
           .left {
             display: block;
-          }
-
-          .right {
-            display: flex;
-            justify-content: flex-end;
           }
         }
       `}</style>
