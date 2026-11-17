@@ -1,5 +1,4 @@
 import type { NextPage } from 'next';
-import { useEffect, useState } from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
 import colors from '@/config/colors.json';
@@ -15,15 +14,7 @@ type Props = { language: string };
 const Header: NextPage<Props> = ({ language }) => {
   const scrollPosition = useScrollPosition();
 
-  const [activateHeader, setActivateHeader] = useState(true);
-
-  useEffect(() => {
-    if (scrollPosition > 0) {
-      setActivateHeader(true);
-    } else {
-      setActivateHeader(false);
-    }
-  }, [scrollPosition, setActivateHeader]);
+  const activateHeader = scrollPosition > 0;
 
   return (
     <header

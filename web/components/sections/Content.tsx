@@ -16,8 +16,8 @@ const Content: NextPage<Props> = ({ images, paragraphs }) => {
                 <Image
                   src={i}
                   alt="image"
-                  layout={'fill'}
-                  objectFit={'cover'}
+                  fill
+                  style={{ objectFit: 'cover' }}
                 />
               </div>
             ))}
